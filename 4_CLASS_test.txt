@@ -1,0 +1,819 @@
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/245.jpg 814,386,861,466,0 888,519,914,565,0 887,552,958,589,0 893,522,932,589,0 868,501,901,556,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/240.jpg 862,684,904,792,0 538,612,641,656,0 419,597,527,636,0 497,436,584,475,0 628,192,691,280,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/107.jpg 674,630,716,712,0 846,529,926,561,0 927,575,984,614,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/199.jpg 769,361,852,396,0 812,416,863,500,0 1237,396,1324,436,0 922,574,983,626,0 967,586,1058,622,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/56.jpg 869,497,951,550,0 978,471,1031,520,0 1028,530,1078,592,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/191.jpg 871,220,926,321,0 787,452,871,531,0 826,696,933,742,0 956,743,1032,854,0 856,784,901,871,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/25.jpg 556,97,631,146,0 488,199,572,242,0 523,932,623,975,0 1147,749,1223,817,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/266.jpg 1097,159,1156,201,0 763,260,854,301,0 1049,355,1127,417,0 1009,505,1071,590,0 888,619,954,711,0 544,510,617,539,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/425.jpg 61,70,181,112,0 89,312,214,342,0 167,512,289,579,0 283,582,387,609,0 834,855,881,950,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/396.jpg 174,84,302,132,0 192,327,293,372,0 239,549,332,599,0 319,575,414,630,0 849,830,891,927,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/172.jpg 578,510,643,547,0 891,294,947,360,0 994,389,1083,441,0 1031,471,1083,566,0 889,604,962,691,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/269.jpg 526,937,622,975,0 1152,752,1226,816,0 1381,184,1417,226,0 569,100,631,156,0 493,201,567,241,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/243.jpg 816,389,863,466,0 888,516,914,569,0 891,525,932,592,0 891,549,961,585,0 868,501,898,557,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/310.jpg 1031,540,1072,586,0 952,557,994,625,0 937,519,971,572,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/43.jpg 926,444,956,530,0 1432,285,1514,357,0 913,567,991,619,0 663,556,716,622,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/405.jpg 231,31,352,120,0 741,72,839,165,0 387,679,497,790,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/349.jpg 692,386,751,441,0 806,347,854,421,0 1353,321,1424,396,0 913,571,987,610,0 869,621,921,692,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/373.jpg 769,167,877,225,0 813,436,872,502,0 1081,512,1142,592,0 926,630,1011,676,0 1073,862,1108,975,0 1011,994,1106,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/386.jpg 503,66,589,131,0 494,306,533,350,0 689,894,721,957,0 1238,916,1271,1030,0 1383,164,1427,217,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/381.jpg 682,212,743,244,0 1093,152,1157,201,0 1098,330,1171,377,0 933,554,1009,610,0 848,747,914,851,0 461,437,529,489,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/257.jpg 1077,667,1137,747,0 1376,182,1413,236,0 546,152,624,205,0 464,125,542,170,0 534,937,616,979,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/84.jpg 503,95,581,139,0 501,174,551,242,0 529,930,623,984,0 1134,749,1219,816,0 1367,174,1422,245,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/92.jpg 981,249,1036,331,0 867,262,918,330,0 411,550,514,609,0 1267,451,1342,516,0 1187,636,1286,682,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/55.jpg 867,485,947,547,0 966,469,1033,512,0 1028,535,1078,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/68.jpg 453,552,539,587,0 889,296,944,380,0 983,235,1032,351,0 1239,450,1331,497,0 1158,615,1258,670,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/74.jpg 894,291,928,380,0 991,236,1028,347,0 454,547,546,594,0 1243,447,1333,496,0 1158,609,1252,675,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/412.jpg 939,534,986,577,0 967,577,999,636,0 1026,540,1059,579,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/251.jpg 1082,667,1144,754,0 544,152,622,209,0 468,125,536,164,0 1376,180,1416,234,0 533,937,618,971,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/422.jpg 936,534,979,579,0 969,579,1002,636,0 1021,541,1062,582,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/342.jpg 466,130,527,162,0 581,126,674,174,0 1038,616,1104,702,0 1374,185,1409,235,0 531,936,617,974,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/136.jpg 867,229,929,316,0 856,525,942,604,0 832,685,899,751,0 863,782,889,867,0 984,727,1042,817,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/76.jpg 891,299,934,391,0 988,234,1032,349,0 1243,446,1331,499,0 1161,607,1256,675,0 452,549,541,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/249.jpg 624,192,689,285,0 493,439,588,476,0 417,592,507,641,0 524,619,623,654,0 863,681,902,792,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/400.jpg 253,16,337,114,0 738,75,837,161,0 401,679,499,772,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/387.jpg 733,569,799,607,0 943,451,996,517,0 976,480,1008,575,0 963,409,1038,449,0 1034,442,1083,534,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/221.jpg 449,229,514,307,0 621,260,681,301,0 1206,150,1301,196,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/21.jpg 934,530,976,579,0 1021,532,1063,586,0 973,575,1004,637,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/286.jpg 528,939,613,974,0 442,211,486,299,0 471,282,547,325,0 516,309,567,361,0 1374,179,1418,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/193.jpg 864,15,908,130,0 816,431,881,519,0 1078,505,1164,599,0 1188,640,1299,709,0 922,619,1014,675,0 1071,856,1124,1019,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/219.jpg 447,231,509,307,0 623,261,681,297,0 1202,149,1298,205,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/339.jpg 583,124,674,181,0 472,130,528,164,0 1037,617,1101,705,0 528,937,618,975,0 1383,175,1423,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/321.jpg 932,524,977,572,0 954,561,997,625,0 1028,540,1066,584,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/108.jpg 849,529,924,562,0 928,574,984,614,0 678,642,713,706,0 1464,236,1506,325,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/344.jpg 467,129,521,165,0 586,126,674,175,0 1041,616,1097,702,0 1371,182,1414,230,0 534,940,626,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/406.jpg 227,31,341,116,0 734,74,842,164,0 396,679,501,780,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/9.jpg 754,411,836,476,0 722,519,836,549,0 897,511,956,580,0 842,549,917,609,0 878,616,939,705,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/65.jpg 507,107,577,134,0 507,167,557,247,0 528,932,623,974,0 1144,760,1218,811,0 1382,182,1416,229,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/97.jpg 979,244,1033,327,0 872,261,907,332,0 404,551,524,600,0 1262,457,1342,521,0 1184,625,1298,681,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/72.jpg 452,556,542,589,0 884,295,929,382,0 988,234,1028,349,0 1248,444,1336,495,0 1161,620,1256,677,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/362.jpg 306,107,416,156,0 236,341,358,394,0 352,579,448,646,0 277,565,343,601,0 849,815,897,921,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/430.jpg 56,67,167,107,0 86,304,208,345,0 161,510,282,574,0 277,576,384,612,0 826,869,872,954,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/366.jpg 302,107,416,160,0 233,349,354,387,0 272,564,347,601,0 351,580,446,642,0 854,819,891,919,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/63.jpg 982,236,1027,345,0 891,291,926,386,0 448,552,541,589,0 1158,615,1257,679,0 1249,454,1331,497,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/411.jpg 939,534,979,579,0 964,580,997,640,0 1023,540,1066,584,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/393.jpg 172,84,308,141,0 189,326,286,376,0 242,545,338,595,0 319,574,413,629,0 852,831,889,921,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/334.jpg 349,97,443,151,0 102,169,234,222,0 828,161,939,230,0 641,589,759,632,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/329.jpg 101,167,237,215,0 363,97,452,165,0 827,159,936,231,0 651,585,777,631,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/120.jpg 532,934,621,976,0 452,134,512,192,0 461,216,501,301,0 476,291,527,331,0 1364,184,1413,236,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/18.jpg 997,309,1071,416,0 829,439,898,520,0 1081,507,1153,599,0 921,631,1014,670,0 1266,615,1333,660,0 1037,769,1109,922,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/312.jpg 933,522,973,574,0 953,559,999,624,0 1026,540,1071,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/270.jpg 497,75,594,130,0 493,306,526,351,0 692,896,717,959,0 1242,919,1274,1035,0 1382,159,1428,224,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/375.jpg 774,164,878,227,0 808,434,878,501,0 1084,511,1139,597,0 927,626,1011,676,0 1069,867,1112,975,0 1013,990,1107,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/6.jpg 488,86,594,127,0 488,302,533,355,0 682,886,723,960,0 1241,909,1271,1039,0 1379,164,1424,229,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/204.jpg 772,367,848,395,0 804,415,863,486,0 921,580,982,626,0 968,580,1061,622,0 1238,396,1338,430,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/263.jpg 888,621,952,707,0 542,512,622,545,0 1012,504,1074,592,0 772,256,857,300,0 1043,354,1133,417,0 1094,160,1157,204,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/290.jpg 499,66,592,131,0 488,301,527,349,0 691,897,717,959,0 1243,917,1276,1041,0 1383,157,1426,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/364.jpg 301,106,419,160,0 236,347,358,387,0 351,579,446,645,0 274,562,344,599,0 852,821,898,917,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/42.jpg 1437,291,1508,352,0 923,452,957,529,0 922,571,987,620,0 666,546,708,630,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/284.jpg 736,264,842,327,0 824,354,886,435,0 1008,306,1094,402,0 873,594,982,639,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/239.jpg 818,389,864,470,0 888,520,909,572,0 892,530,928,594,0 893,550,953,585,0 866,499,907,557,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/354.jpg 694,385,746,440,0 806,347,861,409,0 908,571,984,609,0 869,620,919,694,0 1354,320,1431,397,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/371.jpg 772,167,883,229,0 812,432,874,500,0 1087,514,1139,595,0 926,629,1009,674,0 1073,864,1106,965,0 1018,991,1104,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/82.jpg 506,101,579,136,0 504,167,557,241,0 533,927,623,979,0 1138,750,1219,821,0 1376,182,1422,240,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/277.jpg 539,159,636,220,0 358,377,456,430,0 327,566,447,612,0 382,597,481,651,0 854,716,897,826,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/33.jpg 958,479,1021,529,0 1029,534,1074,594,0 904,509,962,564,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/384.jpg 458,442,526,480,0 683,202,743,250,0 1089,159,1158,196,0 1099,334,1179,380,0 934,555,1008,609,0 849,747,908,846,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/1.jpg 496,89,596,131,0 494,297,534,351,0 1376,157,1428,237,0 687,895,721,969,0 1234,910,1276,1037,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/188.jpg 529,934,616,979,0 446,196,476,280,0 457,259,501,317,0 494,295,551,332,0 1377,176,1417,232,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/369.jpg 771,167,879,226,0 809,432,873,492,0 1088,510,1134,596,0 928,625,1007,677,0 1072,864,1113,970,0 1017,995,1108,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/19.jpg 928,532,976,582,0 1019,535,1064,586,0 966,576,1001,641,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/223.jpg 444,135,511,209,0 464,257,504,327,0 1382,169,1428,226,0 1342,912,1411,966,0 608,926,709,966,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/103.jpg 441,181,484,281,0 452,256,492,312,0 484,286,551,346,0 1368,181,1418,231,0 534,935,618,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/12.jpg 933,530,979,584,0 1019,539,1057,582,0 967,574,998,640,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/324.jpg 728,260,841,331,0 1007,295,1086,397,0 819,356,889,442,0 874,596,988,641,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/86.jpg 558,95,627,141,0 491,200,569,242,0 523,931,621,976,0 1147,750,1221,820,0 1377,180,1414,237,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/238.jpg 862,676,908,791,0 544,619,639,647,0 423,599,529,640,0 499,434,586,476,0 621,194,696,281,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/380.jpg 459,442,528,485,0 682,205,742,247,0 1092,152,1158,204,0 1094,331,1177,389,0 934,547,1018,614,0 852,749,909,844,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/36.jpg 566,96,628,147,0 491,199,568,245,0 528,935,617,980,0 1152,744,1218,817,0 1379,179,1418,235,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/166.jpg 442,192,478,285,0 458,260,496,316,0 484,287,549,342,0 1379,182,1416,234,0 531,932,617,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/126.jpg 462,140,507,190,0 462,222,499,300,0 473,290,524,334,0 1369,184,1414,230,0 531,934,617,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/150.jpg 442,201,481,275,0 453,257,491,331,0 483,291,551,331,0 534,935,614,977,0 1376,177,1417,226,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/308.jpg 936,520,972,574,0 956,560,999,624,0 1027,537,1064,587,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/209.jpg 771,364,849,395,0 803,409,856,481,0 918,572,977,622,0 969,577,1056,626,0 1231,397,1333,430,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/345.jpg 532,936,616,979,0 1032,619,1099,700,0 1376,180,1428,235,0 583,121,676,180,0 467,134,528,164,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/423.jpg 63,72,194,110,0 91,311,211,349,0 279,585,391,610,0 168,519,273,574,0 834,847,877,946,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/162.jpg 579,510,646,551,0 898,296,953,372,0 997,390,1082,432,0 1042,475,1076,575,0 892,602,963,687,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/49.jpg 974,470,1027,521,0 1031,532,1078,589,0 871,497,944,545,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/130.jpg 527,939,619,975,0 453,137,513,191,0 456,221,499,302,0 471,290,522,331,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/151.jpg 528,927,613,980,0 446,201,477,275,0 456,252,493,332,0 481,287,553,332,0 1378,184,1419,230,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/206.jpg 771,369,848,397,0 809,411,856,481,0 914,581,986,622,0 968,577,1063,624,0 1236,394,1328,432,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/395.jpg 174,84,301,137,0 193,325,294,369,0 238,549,337,599,0 317,572,413,626,0 846,830,889,917,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/246.jpg 624,196,697,281,0 491,441,582,476,0 418,597,513,641,0 531,612,633,660,0 862,676,909,790,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/401.jpg 257,19,334,106,0 736,81,838,159,0 401,679,498,771,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/378.jpg 679,212,746,250,0 1097,159,1159,201,0 1093,335,1176,382,0 937,554,1018,607,0 852,750,908,837,0 464,439,529,485,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/20.jpg 994,305,1072,407,0 1082,514,1147,606,0 1262,610,1332,666,0 828,446,896,522,0 917,626,1013,673,0 1039,774,1106,924,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/205.jpg 773,364,851,400,0 803,416,859,480,0 919,574,986,627,0 964,579,1066,629,0 1222,392,1327,436,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/134.jpg 886,222,926,317,0 816,497,902,567,0 829,686,914,745,0 864,782,894,866,0 951,746,1031,841,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/117.jpg 444,186,479,277,0 448,257,487,309,0 481,292,547,340,0 1374,181,1421,222,0 529,942,614,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/111.jpg 676,637,711,705,0 842,529,923,566,0 927,574,984,612,0 1466,231,1507,322,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/211.jpg 449,136,508,205,0 456,262,502,312,0 1381,175,1419,222,0 616,936,714,964,0 1337,916,1412,966,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/402.jpg 251,16,342,114,0 738,79,839,159,0 401,676,498,775,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/131.jpg 524,936,618,976,0 1144,746,1222,816,0 1373,177,1417,232,0 488,195,564,237,0 569,100,627,151,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/140.jpg 533,939,617,975,0 442,199,477,274,0 457,254,491,326,0 486,295,552,335,0 1372,185,1416,234,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/91.jpg 561,87,636,145,0 493,191,572,246,0 532,929,616,974,0 1149,741,1229,826,0 1374,174,1416,242,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/93.jpg 414,552,521,611,0 862,260,916,341,0 976,251,1033,332,0 1267,447,1341,521,0 1179,637,1298,679,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/90.jpg 411,551,518,609,0 983,245,1029,324,0 858,259,913,331,0 1272,455,1339,516,0 1181,635,1288,685,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/336.jpg 732,260,838,326,0 1003,294,1087,402,0 821,360,891,437,0 874,589,979,640,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/128.jpg 527,930,619,986,0 456,141,511,192,0 459,225,502,301,0 471,290,523,329,0 1376,181,1416,235,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/361.jpg 749,419,837,474,0 714,516,823,545,0 879,510,948,567,0 827,550,911,605,0 889,616,936,712,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/301.jpg 931,520,972,575,0 956,554,993,626,0 1024,532,1062,592,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/394.jpg 846,826,892,921,0 242,547,334,599,0 322,576,411,624,0 189,331,288,371,0 173,81,303,137,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/258.jpg 466,125,539,171,0 549,155,622,209,0 1379,184,1413,224,0 1073,665,1133,740,0 534,937,613,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/291.jpg 738,570,808,615,0 944,451,994,517,0 962,411,1043,449,0 1036,446,1087,531,0 977,475,1008,572,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/22.jpg 999,304,1077,406,0 828,437,889,521,0 1087,512,1142,600,0 923,625,1017,669,0 1262,614,1331,660,0 1036,767,1107,927,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/392.jpg 176,80,306,136,0 191,324,293,374,0 244,545,333,596,0 313,579,412,625,0 848,834,889,921,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/331.jpg 96,171,241,221,0 354,92,449,156,0 826,156,937,239,0 648,587,772,635,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/165.jpg 578,499,649,556,0 891,296,951,369,0 999,389,1083,437,0 1037,474,1083,569,0 894,605,959,685,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/428.jpg 279,577,388,610,0 161,514,288,579,0 84,309,208,345,0 54,70,168,109,0 833,861,876,954,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/16.jpg 993,302,1074,420,0 1088,510,1146,601,0 827,447,892,520,0 922,626,1017,672,0 1039,771,1097,917,0 1263,604,1329,665,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/24.jpg 827,439,897,519,0 999,307,1071,399,0 1082,510,1143,599,0 917,626,1019,671,0 1253,614,1329,661,0 1044,770,1099,922,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/332.jpg 824,157,929,232,0 647,589,763,630,0 354,100,451,152,0 104,169,239,226,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/429.jpg 829,865,878,941,0 283,576,386,614,0 163,515,278,577,0 87,309,198,344,0 53,69,168,105,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/132.jpg 491,84,594,130,0 491,305,531,349,0 1379,166,1424,235,0 1239,912,1277,1035,0 689,894,726,964,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/328.jpg 827,160,933,230,0 654,586,782,629,0 362,100,458,155,0 103,165,242,221,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/302.jpg 933,521,969,572,0 956,555,998,621,0 1028,537,1067,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/404.jpg 237,30,342,117,0 733,75,844,161,0 397,677,497,784,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/299.jpg 448,217,486,305,0 478,287,541,327,0 517,314,564,354,0 1379,182,1417,222,0 536,936,613,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/262.jpg 768,256,859,299,0 1092,156,1158,206,0 1049,354,1127,419,0 1008,505,1072,590,0 886,622,956,707,0 543,510,622,541,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/271.jpg 743,569,808,621,0 961,411,1036,454,0 944,451,994,517,0 972,462,1019,572,0 1029,444,1084,537,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/186.jpg 444,197,479,280,0 463,250,497,319,0 478,290,543,332,0 1377,182,1418,226,0 532,932,616,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/273.jpg 753,417,837,470,0 724,517,829,550,0 883,512,951,570,0 827,547,912,606,0 888,615,936,711,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/424.jpg 282,579,396,609,0 831,852,882,950,0 159,520,277,571,0 89,309,211,347,0 61,67,188,112,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/313.jpg 934,519,972,574,0 956,555,991,624,0 1027,541,1067,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/352.jpg 699,390,746,437,0 809,350,854,411,0 1353,319,1428,397,0 916,571,983,606,0 873,621,918,692,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/180.jpg 731,569,807,619,0 947,450,999,521,0 977,456,1018,579,0 966,411,1039,455,0 1028,441,1083,531,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/195.jpg 854,10,902,117,0 811,432,877,502,0 1088,516,1142,599,0 921,622,1012,672,0 1194,644,1287,712,0 1069,870,1117,1020,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/61.jpg 508,100,589,140,0 504,169,559,245,0 533,935,617,975,0 1154,751,1218,816,0 1376,177,1414,235,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/212.jpg 447,231,521,320,0 617,252,679,304,0 1203,156,1296,197,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/13.jpg 937,529,979,582,0 967,582,1001,640,0 1022,531,1061,586,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/60.jpg 864,485,951,554,0 968,472,1043,530,0 1031,521,1079,601,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/214.jpg 436,136,518,201,0 456,260,506,320,0 599,927,712,969,0 1336,914,1413,967,0 1381,165,1424,224,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/347.jpg 734,260,846,332,0 1004,289,1084,391,0 819,364,891,442,0 877,591,979,642,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/45.jpg 922,455,959,530,0 923,569,986,622,0 661,551,704,619,0 1436,282,1509,355,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/416.jpg 773,524,863,555,0 883,502,949,541,0 879,472,962,506,0 948,471,999,541,0 1002,486,1081,567,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/383.jpg 679,214,747,261,0 458,437,532,485,0 1091,154,1163,201,0 1097,332,1176,384,0 936,551,1011,610,0 848,745,907,844,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/144.jpg 533,935,612,982,0 443,195,474,275,0 458,255,489,325,0 478,290,553,335,0 1376,182,1416,231,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/275.jpg 853,716,892,820,0 326,574,441,611,0 383,606,484,651,0 356,377,453,429,0 542,161,647,220,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/141.jpg 873,232,929,319,0 848,522,933,594,0 828,686,896,756,0 858,785,899,859,0 983,730,1038,819,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/133.jpg 741,571,808,619,0 958,414,1037,452,0 1032,441,1088,532,0 944,447,996,519,0 973,461,1022,570,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/233.jpg 817,381,867,469,0 866,496,903,562,0 882,515,918,574,0 888,521,934,592,0 891,550,963,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/177.jpg 437,200,478,284,0 458,260,494,314,0 483,294,546,329,0 531,937,618,974,0 1381,184,1418,227,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/278.jpg 539,161,641,216,0 357,377,454,429,0 323,574,444,609,0 386,600,477,650,0 858,716,896,819,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/94.jpg 869,265,914,329,0 979,242,1029,327,0 1263,454,1338,521,0 1176,629,1286,675,0 401,552,517,599,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/8.jpg 884,221,922,312,0 824,497,896,566,0 827,687,903,736,0 863,781,896,870,0 953,747,1031,841,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/38.jpg 667,547,703,625,0 928,450,953,524,0 921,572,986,620,0 1437,287,1513,352,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/351.jpg 697,384,746,439,0 801,346,851,414,0 1352,320,1429,396,0 913,571,983,605,0 867,624,917,695,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/142.jpg 443,200,481,277,0 451,256,492,329,0 482,292,549,331,0 1383,184,1416,227,0 532,932,612,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/391.jpg 846,835,894,926,0 242,545,333,604,0 307,580,413,622,0 193,330,293,372,0 166,82,294,134,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/287.jpg 448,211,491,296,0 477,287,548,319,0 509,311,566,356,0 1377,180,1423,222,0 537,935,613,972,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/419.jpg 999,485,1077,569,0 947,466,1002,542,0 882,475,968,507,0 879,501,956,539,0 771,525,861,557,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/360.jpg 858,782,892,869,0 826,687,904,745,0 808,485,884,557,0 953,747,1028,836,0 881,227,926,320,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/115.jpg 682,637,718,711,0 832,531,926,566,0 924,577,983,614,0 1466,235,1502,322,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/99.jpg 413,552,516,595,0 864,260,914,329,0 973,234,1029,339,0 1264,461,1341,517,0 1188,630,1291,680,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/190.jpg 788,455,871,535,0 826,696,927,742,0 853,786,896,875,0 957,749,1027,844,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/57.jpg 868,489,952,545,0 971,471,1036,522,0 1028,534,1078,595,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/152.jpg 444,197,477,276,0 459,257,491,339,0 477,291,553,331,0 1376,184,1414,232,0 529,932,616,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/338.jpg 526,936,616,977,0 1036,609,1097,705,0 1377,186,1416,229,0 582,125,673,179,0 472,131,523,160,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/417.jpg 1001,484,1074,566,0 882,475,962,509,0 944,466,999,541,0 879,506,948,535,0 776,525,857,560,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/234.jpg 819,386,867,471,0 869,497,902,559,0 886,517,917,574,0 892,521,932,589,0 889,551,953,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/143.jpg 864,227,926,317,0 853,520,926,601,0 832,690,903,751,0 858,786,896,859,0 977,729,1037,829,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/370.jpg 298,115,413,156,0 231,350,356,394,0 351,580,444,645,0 272,562,342,599,0 847,821,894,917,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/81.jpg 893,287,936,385,0 988,229,1028,341,0 1243,449,1341,502,0 1148,609,1253,672,0 443,546,543,599,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/66.jpg 447,551,541,590,0 889,289,931,386,0 984,237,1029,345,0 1244,449,1331,500,0 1159,614,1259,672,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/208.jpg 771,367,848,401,0 809,416,858,477,0 919,574,978,619,0 968,576,1056,622,0 1238,390,1331,429,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/124.jpg 529,935,623,980,0 469,289,527,332,0 462,229,503,301,0 458,137,513,192,0 1378,185,1419,234,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/197.jpg 848,5,906,105,0 813,434,879,505,0 1082,512,1144,604,0 1193,644,1297,709,0 924,624,1012,676,0 1069,880,1116,1032,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/250.jpg 623,195,694,282,0 498,439,586,471,0 412,592,509,636,0 524,620,621,652,0 863,680,902,787,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/363.jpg 847,810,896,926,0 273,569,346,604,0 346,576,444,647,0 239,342,353,392,0 296,112,408,159,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/158.jpg 1381,181,1422,227,0 528,935,619,977,0 442,199,481,281,0 448,254,492,326,0 477,289,556,337,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/305.jpg 934,521,972,575,0 951,559,997,622,0 1031,535,1064,592,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/261.jpg 769,252,856,302,0 544,509,617,540,0 1047,354,1127,421,0 1008,506,1074,592,0 886,621,953,709,0 1094,157,1158,202,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/390.jpg 168,82,301,135,0 198,332,292,370,0 247,541,333,599,0 313,577,409,624,0 841,834,893,922,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/0.jpg 568,104,634,149,0 477,194,571,244,0 1150,746,1218,817,0 534,939,617,973,0 1383,182,1414,226,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/119.jpg 461,137,519,201,0 468,219,498,300,0 473,292,524,332,0 1376,182,1417,234,0 534,937,623,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/217.jpg 451,229,508,315,0 623,259,682,299,0 1203,155,1297,197,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/298.jpg 444,209,486,301,0 477,286,546,322,0 503,307,562,357,0 1377,180,1419,229,0 529,936,617,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/203.jpg 776,362,852,406,0 808,417,862,487,0 917,574,983,625,0 968,586,1054,626,0 1228,397,1334,437,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/320.jpg 927,517,974,577,0 959,559,999,627,0 1027,535,1071,597,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/41.jpg 919,446,959,535,0 922,574,981,620,0 663,554,702,624,0 1438,287,1513,356,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/421.jpg 764,524,858,561,0 881,506,951,539,0 882,467,964,507,0 952,467,999,541,0 1001,486,1083,567,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/418.jpg 773,525,864,554,0 876,505,953,536,0 883,469,962,511,0 947,466,999,545,0 1002,487,1076,569,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/202.jpg 773,355,849,402,0 812,415,863,497,0 922,565,986,636,0 966,585,1058,624,0 1236,391,1329,444,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/109.jpg 676,641,717,706,0 848,530,927,559,0 926,576,988,612,0 1462,226,1504,322,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/98.jpg 418,551,519,596,0 861,255,919,334,0 976,242,1033,336,0 1259,455,1344,525,0 1188,636,1296,689,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/201.jpg 777,366,854,397,0 809,416,868,497,0 909,569,981,624,0 971,582,1067,630,0 1232,397,1333,435,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/350.jpg 701,389,751,429,0 807,349,857,417,0 911,575,987,605,0 868,621,921,695,0 1354,320,1433,395,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/35.jpg 568,95,627,145,0 488,202,566,239,0 1377,176,1414,229,0 1157,749,1217,816,0 526,934,613,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/367.jpg 776,162,879,224,0 808,432,876,496,0 1078,510,1143,589,0 928,630,1011,677,0 1067,861,1111,974,0 1010,995,1108,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/264.jpg 1096,159,1159,201,0 766,256,852,302,0 1047,351,1129,417,0 1011,502,1071,587,0 886,616,953,711,0 546,514,621,540,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/27.jpg 957,476,1011,530,0 1022,535,1074,585,0 902,506,962,567,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/46.jpg 567,99,629,146,0 488,195,568,239,0 534,931,614,981,0 1147,750,1221,820,0 1373,175,1416,232,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/346.jpg 463,130,536,166,0 582,126,678,172,0 1377,181,1422,235,0 1041,615,1097,701,0 529,936,611,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/410.jpg 939,530,988,581,0 968,576,998,636,0 1023,536,1062,585,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/200.jpg 774,365,848,396,0 809,421,869,501,0 914,575,979,624,0 976,586,1063,630,0 1233,391,1326,436,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/160.jpg 901,297,958,385,0 997,386,1082,449,0 1038,475,1077,571,0 892,609,967,680,0 579,510,647,555,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/123.jpg 452,137,513,194,0 457,221,501,302,0 472,291,523,332,0 1377,185,1412,227,0 531,935,621,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/303.jpg 742,265,846,330,0 823,356,889,437,0 1007,290,1086,400,0 877,597,979,637,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/101.jpg 448,179,482,275,0 449,257,489,314,0 486,291,544,345,0 1374,176,1416,235,0 528,930,618,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/253.jpg 531,935,613,980,0 544,151,626,211,0 468,122,543,169,0 1078,667,1138,752,0 1379,184,1411,230,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/161.jpg 576,511,647,550,0 896,294,952,377,0 992,389,1086,436,0 1041,476,1078,571,0 896,611,966,682,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/307.jpg 931,517,971,582,0 956,559,997,621,0 1031,535,1068,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/226.jpg 1334,906,1413,971,0 611,926,714,962,0 447,137,501,206,0 459,259,508,317,0 1379,171,1431,232,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/389.jpg 754,421,839,471,0 722,516,818,550,0 879,514,946,562,0 822,542,904,597,0 886,619,934,710,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/294.jpg 736,266,846,329,0 1006,296,1089,406,0 823,359,888,441,0 878,591,992,637,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/409.jpg 752,417,834,470,0 714,516,823,551,0 883,509,942,555,0 827,546,908,595,0 888,616,938,714,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/114.jpg 1467,237,1504,322,0 839,531,928,559,0 924,574,981,615,0 677,640,713,711,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/87.jpg 1382,180,1423,239,0 506,100,577,135,0 503,171,556,239,0 528,931,621,985,0 1134,746,1216,819,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/11.jpg 937,530,983,582,0 1023,542,1062,582,0 963,574,1004,636,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/341.jpg 729,264,847,329,0 819,360,889,432,0 1013,287,1084,400,0 877,592,983,637,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/293.jpg 754,416,838,472,0 718,517,829,552,0 828,542,914,607,0 886,509,952,572,0 884,615,934,711,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/189.jpg 871,225,924,310,0 782,451,857,532,0 829,696,932,741,0 961,744,1034,851,0 858,784,893,871,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/227.jpg 616,921,711,969,0 1344,917,1411,972,0 1374,172,1426,227,0 443,139,502,201,0 461,254,504,321,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/343.jpg 527,934,617,982,0 468,131,522,165,0 582,124,676,175,0 1036,616,1099,705,0 1376,184,1417,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/89.jpg 507,101,586,144,0 496,175,557,240,0 532,932,622,974,0 1134,746,1223,819,0 1356,174,1412,236,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/137.jpg 853,529,944,601,0 827,687,901,750,0 862,782,889,865,0 986,731,1036,821,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/163.jpg 579,506,648,554,0 894,294,951,364,0 1001,386,1079,440,0 1036,477,1084,572,0 892,607,973,684,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/379.jpg 849,746,904,841,0 938,552,1021,607,0 1098,337,1172,385,0 1094,161,1163,199,0 682,212,743,251,0 461,439,528,489,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/40.jpg 664,552,702,624,0 917,447,957,527,0 923,570,982,619,0 1431,292,1513,355,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/399.jpg 171,85,301,134,0 187,330,292,370,0 241,549,332,597,0 319,575,404,627,0 849,830,887,922,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/64.jpg 449,545,541,602,0 887,296,938,380,0 982,235,1029,350,0 1237,451,1329,492,0 1158,612,1258,680,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/44.jpg 659,549,704,631,0 919,457,953,525,0 917,576,987,617,0 1427,290,1516,354,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/326.jpg 932,519,976,574,0 957,560,998,624,0 1027,542,1071,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/318.jpg 954,561,997,622,0 937,519,971,572,0 1024,540,1074,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/431.jpg 829,872,882,946,0 274,576,384,607,0 162,515,276,572,0 86,309,194,344,0 52,69,162,110,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/397.jpg 177,81,303,136,0 189,334,293,367,0 239,549,332,602,0 321,574,413,627,0 843,831,893,930,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/77.jpg 438,549,547,586,0 887,296,934,385,0 991,239,1029,342,0 1239,449,1346,500,0 1159,610,1251,677,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/382.jpg 459,444,526,482,0 684,210,746,246,0 1091,151,1156,199,0 1096,336,1179,380,0 931,550,1013,611,0 847,746,913,846,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/181.jpg 879,220,924,316,0 814,499,906,569,0 831,692,908,741,0 868,785,896,864,0 957,746,1029,836,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/231.jpg 887,224,933,317,0 817,485,894,561,0 826,690,911,745,0 859,782,899,870,0 959,741,1038,835,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/359.jpg 743,564,799,614,0 942,447,997,516,0 982,475,1008,571,0 963,411,1036,447,0 1037,442,1083,532,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/374.jpg 296,112,411,155,0 234,351,356,396,0 351,577,448,646,0 266,562,343,600,0 847,815,891,916,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/179.jpg 494,72,596,135,0 481,300,534,354,0 687,877,721,967,0 1242,912,1272,1047,0 1381,161,1441,221,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/407.jpg 228,32,342,120,0 743,76,842,162,0 393,681,494,791,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/210.jpg 448,132,507,207,0 457,264,504,314,0 611,935,708,964,0 1346,914,1408,966,0 1383,171,1424,226,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/408.jpg 564,102,636,142,0 494,201,571,235,0 1151,749,1219,815,0 533,934,617,974,0 1378,177,1417,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/420.jpg 769,526,861,556,0 879,507,948,539,0 883,466,961,515,0 946,461,1001,544,0 1002,485,1078,567,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/426.jpg 159,511,288,579,0 283,581,391,609,0 89,311,213,349,0 52,70,179,111,0 829,850,881,951,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/52.jpg 864,489,951,556,0 972,470,1031,519,0 1031,535,1079,592,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/32.jpg 898,506,964,570,0 963,476,1016,537,0 1028,537,1083,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/348.jpg 696,386,751,434,0 804,346,853,419,0 913,571,982,606,0 872,619,916,691,0 1353,319,1426,394,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/292.jpg 882,224,927,317,0 811,485,892,557,0 832,690,908,739,0 864,784,893,870,0 954,746,1033,836,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/145.jpg 868,227,929,319,0 846,514,919,584,0 823,689,897,759,0 863,781,894,862,0 981,731,1036,822,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/194.jpg 854,6,902,122,0 817,432,879,504,0 1083,510,1143,610,0 923,617,1021,671,0 1194,641,1298,699,0 1076,864,1112,1019,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/260.jpg 771,256,854,295,0 1093,151,1164,209,0 1044,352,1133,427,0 1007,500,1076,591,0 887,619,958,712,0 538,511,618,541,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/323.jpg 934,522,973,575,0 951,557,997,624,0 1026,540,1072,599,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/300.jpg 447,212,492,299,0 473,280,539,327,0 518,311,558,352,0 1378,184,1423,219,0 533,930,618,972,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/187.jpg 786,459,862,525,0 878,217,927,314,0 828,697,927,742,0 961,750,1033,844,0 853,780,894,872,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/67.jpg 889,292,932,382,0 989,234,1034,347,0 452,549,544,591,0 1244,445,1331,499,0 1154,610,1254,676,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/34.jpg 911,511,964,570,0 959,472,1014,536,0 1026,536,1076,585,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/171.jpg 446,201,476,279,0 454,252,499,321,0 482,291,551,334,0 1376,182,1417,225,0 533,939,614,974,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/178.jpg 1151,754,1223,817,0 529,936,614,969,0 493,199,564,237,0 574,100,629,152,0 1376,175,1414,232,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/127.jpg 457,136,508,191,0 459,226,498,306,0 473,286,527,329,0 1379,182,1414,226,0 533,935,621,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/122.jpg 533,932,616,977,0 472,289,521,331,0 458,227,503,304,0 458,137,512,189,0 1376,186,1423,231,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/235.jpg 821,387,866,471,0 866,502,906,560,0 887,517,916,575,0 893,526,931,592,0 891,554,953,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/398.jpg 254,14,338,109,0 737,79,838,161,0 404,672,506,767,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/241.jpg 817,384,862,467,0 891,521,914,571,0 866,500,899,560,0 891,530,929,587,0 888,547,956,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/100.jpg 438,172,483,275,0 448,260,493,316,0 486,295,546,344,0 1371,180,1421,234,0 529,935,617,979,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/26.jpg 959,475,1016,532,0 907,515,966,572,0 1033,534,1074,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/31.jpg 964,474,1014,532,0 1031,532,1081,592,0 913,514,961,571,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/337.jpg 1037,614,1101,701,0 1381,176,1419,225,0 533,934,619,974,0 584,122,669,176,0 467,131,527,169,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/327.jpg 823,159,941,231,0 359,102,456,159,0 101,165,241,217,0 651,586,778,630,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/236.jpg 818,389,869,472,0 868,497,906,560,0 886,519,916,579,0 884,532,927,587,0 884,549,959,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/414.jpg 776,526,864,554,0 882,507,947,537,0 879,471,959,511,0 947,471,998,546,0 999,485,1079,566,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/314.jpg 934,520,977,576,0 953,559,998,622,0 1027,540,1064,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/175.jpg 898,296,961,367,0 1001,392,1084,442,0 1038,474,1082,564,0 881,606,969,685,0 574,514,647,551,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/276.jpg 538,160,644,224,0 357,380,457,430,0 326,572,443,614,0 382,605,481,650,0 857,720,888,822,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/146.jpg 438,197,479,274,0 456,250,493,329,0 478,292,551,332,0 1374,177,1416,232,0 522,934,612,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/256.jpg 469,129,534,169,0 547,154,622,210,0 1377,185,1416,227,0 1074,662,1139,751,0 534,939,618,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/333.jpg 827,155,939,232,0 638,589,768,631,0 354,92,449,155,0 101,172,237,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/272.jpg 886,230,924,317,0 816,494,894,559,0 834,692,908,744,0 954,750,1032,837,0 861,787,894,864,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/10.jpg 566,100,632,150,0 491,200,571,239,0 1374,184,1414,235,0 1154,751,1221,814,0 531,939,623,971,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/237.jpg 822,392,864,467,0 867,502,904,559,0 889,522,919,576,0 891,527,929,590,0 881,555,958,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/228.jpg 573,100,641,161,0 494,199,566,239,0 1378,179,1418,229,0 1153,747,1226,825,0 533,935,617,972,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/88.jpg 501,101,578,136,0 503,174,552,250,0 531,934,624,977,0 1144,749,1217,812,0 1372,182,1413,231,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/47.jpg 506,100,576,132,0 509,166,557,241,0 1376,184,1413,227,0 1158,760,1227,815,0 531,929,619,981,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/58.jpg 507,89,578,136,0 507,169,557,245,0 1377,180,1421,231,0 1148,750,1227,819,0 536,930,623,980,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/248.jpg 627,199,691,280,0 497,439,583,474,0 411,594,507,635,0 528,624,623,652,0 864,685,897,785,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/106.jpg 444,184,479,276,0 453,262,491,314,0 482,291,548,339,0 1372,182,1417,229,0 534,935,618,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/23.jpg 996,302,1074,409,0 1084,502,1144,595,0 1254,610,1336,670,0 916,630,1018,675,0 1041,765,1101,921,0 826,441,898,520,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/368.jpg 301,110,416,156,0 231,350,356,390,0 347,577,442,640,0 276,562,344,599,0 852,815,889,919,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/154.jpg 438,197,483,280,0 456,262,491,334,0 478,286,553,334,0 1377,180,1423,231,0 532,939,613,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/427.jpg 161,521,292,577,0 278,576,391,612,0 832,862,877,941,0 89,306,211,342,0 52,71,172,109,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/7.jpg 742,567,807,627,0 961,406,1041,455,0 943,455,998,519,0 976,465,1019,569,0 1033,444,1081,532,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/222.jpg 616,931,712,971,0 1336,916,1412,976,0 1377,164,1426,225,0 441,135,507,201,0 462,261,507,312,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/139.jpg 853,526,932,594,0 867,230,928,311,0 828,690,899,746,0 863,787,892,865,0 983,730,1038,817,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/192.jpg 849,16,912,134,0 808,432,882,510,0 1087,515,1143,597,0 922,626,1007,669,0 1196,645,1287,704,0 1077,869,1112,1009,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/173.jpg 783,462,857,527,0 881,220,931,316,0 824,694,922,745,0 854,784,897,874,0 952,746,1034,841,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/224.jpg 618,927,718,962,0 1342,914,1409,964,0 1377,169,1429,229,0 446,134,502,206,0 452,259,509,316,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/169.jpg 899,290,953,366,0 997,390,1087,439,0 1032,475,1086,571,0 893,609,967,684,0 579,507,644,551,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/70.jpg 444,551,538,592,0 888,291,931,381,0 982,232,1033,345,0 1242,450,1337,496,0 1154,609,1261,674,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/315.jpg 932,519,974,582,0 958,561,996,621,0 1024,541,1066,587,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/220.jpg 447,231,511,309,0 623,250,682,300,0 1197,151,1306,202,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/281.jpg 536,154,634,215,0 353,377,456,436,0 327,571,439,616,0 382,604,482,650,0 854,720,892,826,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/182.jpg 756,419,837,474,0 887,509,958,575,0 836,549,916,605,0 887,614,936,711,0 719,522,834,546,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/176.jpg 792,456,859,527,0 831,692,922,747,0 858,784,894,870,0 952,752,1028,841,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/148.jpg 442,199,486,274,0 457,257,493,334,0 481,290,547,331,0 1379,177,1414,229,0 534,935,614,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/385.jpg 532,931,617,975,0 1147,754,1226,821,0 1382,181,1422,224,0 559,102,629,145,0 492,204,564,235,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/304.jpg 937,524,971,572,0 956,557,994,622,0 1028,539,1068,585,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/207.jpg 769,365,856,397,0 809,415,856,485,0 921,576,983,624,0 972,580,1063,626,0 1229,387,1331,431,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/129.jpg 458,137,509,196,0 461,226,496,306,0 472,287,527,331,0 1373,180,1412,231,0 529,929,617,982,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/230.jpg 739,571,807,625,0 962,407,1049,449,0 944,449,993,521,0 978,465,1014,574,0 1031,444,1083,530,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/156.jpg 439,196,479,277,0 452,262,491,329,0 478,294,548,329,0 1376,185,1416,225,0 531,941,616,979,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/48.jpg 871,494,944,549,0 968,470,1033,517,0 1031,534,1078,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/259.jpg 526,934,617,979,0 1072,661,1131,745,0 1379,184,1409,226,0 544,154,621,207,0 462,125,539,177,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/413.jpg 771,515,869,556,0 879,504,949,535,0 882,474,961,509,0 946,474,1001,542,0 999,487,1077,564,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/4.jpg 884,616,941,709,0 894,520,957,582,0 843,540,914,610,0 732,516,833,551,0 756,415,836,472,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/232.jpg 752,411,837,472,0 719,514,836,546,0 883,512,949,567,0 836,545,911,602,0 889,612,937,711,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/110.jpg 1461,232,1502,321,0 844,524,928,561,0 927,575,988,612,0 677,646,717,705,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/95.jpg 869,266,911,332,0 979,244,1038,330,0 411,552,519,596,0 1168,631,1293,682,0 1268,460,1342,521,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/330.jpg 97,169,233,219,0 357,99,454,152,0 826,157,934,234,0 651,584,777,639,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/317.jpg 933,521,971,574,0 951,559,998,622,0 1027,535,1068,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/149.jpg 848,516,919,582,0 873,225,924,316,0 827,691,903,749,0 859,785,904,861,0 981,732,1036,830,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/164.jpg 443,200,478,284,0 459,251,494,317,0 481,296,553,341,0 1378,180,1411,231,0 536,935,612,979,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/279.jpg 858,717,899,827,0 383,601,482,646,0 326,572,437,611,0 352,377,461,432,0 537,159,642,219,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/50.jpg 871,490,953,549,0 969,469,1037,519,0 1028,536,1073,590,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/62.jpg 504,104,588,132,0 502,169,554,240,0 531,931,619,975,0 1369,176,1426,230,0 1147,746,1229,822,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/2.jpg 746,572,803,621,0 961,410,1038,450,0 944,455,993,519,0 971,464,1016,572,0 1031,447,1083,530,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/415.jpg 768,521,862,561,0 879,505,951,540,0 881,470,961,507,0 952,470,999,545,0 1001,487,1084,569,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/244.jpg 629,194,694,285,0 493,437,588,480,0 413,592,523,640,0 536,615,643,654,0 866,677,903,786,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/51.jpg 867,495,942,546,0 979,474,1038,520,0 1031,534,1074,591,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/283.jpg 736,265,842,327,0 823,355,893,449,0 1007,302,1099,406,0 876,595,978,640,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/167.jpg 574,505,648,549,0 893,292,951,365,0 1002,389,1079,439,0 1037,477,1079,569,0 892,607,961,680,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/155.jpg 529,932,622,974,0 444,200,479,280,0 457,257,492,336,0 488,292,549,337,0 1373,187,1418,231,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/96.jpg 404,549,518,600,0 856,266,921,332,0 978,232,1033,337,0 1267,451,1338,521,0 1176,626,1294,689,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/289.jpg 528,939,621,977,0 1147,749,1222,817,0 1378,181,1417,229,0 566,100,628,152,0 489,199,567,232,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/288.jpg 444,217,482,295,0 472,281,547,321,0 513,311,563,357,0 1382,179,1418,226,0 531,937,618,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/297.jpg 448,215,487,292,0 476,286,547,322,0 518,315,564,352,0 1372,185,1418,225,0 528,937,621,971,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/403.jpg 243,24,339,114,0 741,80,838,157,0 393,681,494,784,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/174.jpg 457,250,497,327,0 476,291,547,336,0 1374,184,1417,230,0 531,935,612,976,0 442,196,482,285,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/282.jpg 539,157,639,220,0 354,382,452,434,0 317,570,436,614,0 382,600,482,650,0 854,712,897,829,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/229.jpg 497,71,586,126,0 496,305,531,347,0 1378,169,1424,225,0 1237,914,1276,1035,0 691,891,721,957,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/319.jpg 932,516,971,577,0 954,560,997,621,0 1028,536,1068,586,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/53.jpg 869,492,949,551,0 972,475,1036,519,0 1027,529,1074,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/121.jpg 526,936,618,982,0 477,290,522,331,0 462,229,501,301,0 458,139,513,187,0 1373,182,1413,229,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/268.jpg 763,257,857,299,0 1096,155,1156,202,0 1047,355,1126,417,0 1009,500,1072,594,0 886,622,954,711,0 544,511,622,540,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/247.jpg 628,195,696,281,0 493,436,583,472,0 412,597,514,637,0 526,619,629,650,0 864,682,903,785,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/183.jpg 791,455,859,532,0 881,224,926,314,0 832,695,923,749,0 953,745,1032,841,0 853,789,899,870,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/147.jpg 844,519,917,582,0 823,685,901,755,0 857,785,901,864,0 976,727,1038,831,0 873,227,929,317,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/28.jpg 899,510,963,571,0 962,475,1016,535,0 1027,537,1079,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/218.jpg 452,231,513,311,0 621,254,678,306,0 1194,157,1309,207,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/274.jpg 542,160,651,227,0 352,385,454,431,0 322,572,437,614,0 382,607,481,647,0 862,720,893,819,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/353.jpg 698,387,743,446,0 806,351,861,409,0 917,574,992,609,0 869,621,921,696,0 1353,319,1427,395,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/15.jpg 936,529,982,582,0 1022,539,1064,587,0 966,574,1003,641,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/113.jpg 842,529,921,565,0 924,572,981,615,0 1468,236,1503,325,0 683,642,716,706,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/325.jpg 938,519,967,572,0 954,564,997,620,0 1029,539,1067,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/73.jpg 449,555,538,589,0 888,290,936,380,0 987,235,1026,346,0 1247,449,1334,495,0 1157,615,1256,677,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/75.jpg 447,542,543,591,0 986,229,1032,345,0 889,299,929,384,0 1252,449,1338,501,0 1162,605,1252,679,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/255.jpg 531,935,618,977,0 1079,661,1138,749,0 1382,182,1417,231,0 543,154,622,210,0 468,122,533,170,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/285.jpg 734,264,853,327,0 828,352,884,441,0 876,587,979,647,0 1011,300,1091,416,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/105.jpg 563,96,629,147,0 487,200,569,242,0 1373,176,1417,231,0 1148,745,1223,819,0 533,934,618,976,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/125.jpg 458,135,511,194,0 462,227,499,307,0 476,290,524,332,0 1376,182,1417,229,0 531,935,614,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/306.jpg 933,527,972,574,0 953,557,992,621,0 1027,537,1066,584,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/80.jpg 452,547,543,594,0 894,292,932,377,0 988,235,1034,344,0 1246,450,1333,500,0 1159,612,1251,677,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/295.jpg 448,215,484,300,0 476,287,548,324,0 524,317,566,354,0 1376,181,1426,229,0 531,939,621,972,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/356.jpg 807,350,859,406,0 699,391,742,439,0 908,577,986,604,0 866,620,923,697,0 1358,315,1432,394,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/102.jpg 437,185,484,281,0 449,257,491,314,0 486,292,551,341,0 1374,177,1416,225,0 527,930,613,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/296.jpg 532,935,617,977,0 446,212,489,304,0 473,287,544,325,0 513,314,562,355,0 1374,185,1423,222,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/184.jpg 529,937,617,975,0 443,199,484,282,0 456,254,496,316,0 479,290,548,332,0 1377,182,1419,227,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/135.jpg 757,417,838,474,0 726,517,838,550,0 838,546,912,609,0 886,514,956,579,0 882,619,936,710,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/316.jpg 931,521,974,576,0 956,560,998,621,0 1027,534,1066,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/376.jpg 672,209,744,250,0 1101,160,1158,195,0 1093,332,1172,381,0 463,437,524,484,0 937,549,1021,605,0 852,750,911,841,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/213.jpg 444,232,517,309,0 622,260,683,297,0 1201,162,1292,197,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/138.jpg 856,529,939,597,0 833,689,897,749,0 861,784,894,862,0 983,732,1039,820,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/69.jpg 447,554,547,592,0 886,289,932,381,0 983,231,1028,342,0 1236,446,1334,501,0 1162,615,1253,667,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/118.jpg 528,940,613,985,0 436,172,483,276,0 448,254,484,304,0 473,290,544,346,0 1373,172,1419,224,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/153.jpg 528,934,616,974,0 451,196,483,282,0 454,250,487,334,0 484,289,554,336,0 1377,179,1417,229,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/30.jpg 903,509,961,566,0 964,482,1019,530,0 1029,539,1073,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/168.jpg 444,197,478,281,0 457,260,497,315,0 482,287,553,337,0 1376,186,1418,230,0 533,934,621,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/309.jpg 933,521,972,574,0 956,559,998,630,0 1028,537,1069,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/340.jpg 472,131,527,166,0 583,124,679,174,0 1037,607,1102,704,0 1377,184,1412,230,0 529,932,616,980,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/3.jpg 879,222,932,320,0 824,495,898,571,0 828,695,911,742,0 957,749,1029,839,0 859,784,892,860,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/225.jpg 447,134,498,210,0 453,260,504,315,0 1377,165,1426,225,0 608,919,707,974,0 1334,907,1413,980,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/5.jpg 567,105,627,147,0 482,195,571,236,0 1377,176,1419,230,0 1157,746,1216,816,0 536,934,618,980,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/242.jpg 624,196,692,280,0 497,435,587,479,0 421,599,527,640,0 538,614,638,651,0 866,682,903,786,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/59.jpg 864,491,953,549,0 976,475,1037,520,0 1024,532,1074,589,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/198.jpg 782,364,846,395,0 809,419,861,500,0 919,566,981,634,0 971,586,1054,625,0 1234,395,1328,439,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/112.jpg 1468,230,1499,327,0 843,534,926,562,0 922,575,988,616,0 682,640,714,709,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/254.jpg 549,154,618,207,0 468,127,538,170,0 1379,186,1413,225,0 1076,662,1136,750,0 536,937,614,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/365.jpg 776,166,878,229,0 812,430,873,505,0 1086,510,1148,592,0 924,630,1011,671,0 1076,860,1107,974,0 1015,995,1104,1080,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/355.jpg 697,389,744,442,0 802,344,858,414,0 911,574,989,607,0 871,616,919,694,0 1354,317,1428,394,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/104.jpg 446,186,481,277,0 447,256,496,309,0 482,292,549,347,0 1374,175,1413,232,0 531,929,621,975,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/170.jpg 791,462,864,530,0 882,219,924,320,0 828,695,922,740,0 859,785,897,871,0 956,751,1032,844,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/78.jpg 453,549,548,592,0 892,282,931,389,0 993,237,1036,347,0 1248,452,1334,500,0 1163,612,1256,676,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/54.jpg 862,497,947,552,0 977,476,1032,514,0 1027,531,1077,587,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/252.jpg 544,150,617,207,0 468,124,539,165,0 1378,185,1412,227,0 1081,665,1143,752,0 536,940,614,971,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/377.jpg 847,749,902,840,0 938,550,1019,605,0 461,439,524,485,0 1092,336,1178,380,0 1097,156,1156,202,0 678,207,748,254,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/215.jpg 453,231,508,309,0 622,256,681,304,0 1204,160,1291,200,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/116.jpg 438,182,479,280,0 451,256,486,307,0 483,292,547,342,0 531,935,614,979,0 1379,182,1418,225,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/71.jpg 442,550,547,594,0 889,286,929,381,0 989,232,1034,349,0 1248,451,1329,499,0 1158,616,1254,681,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/14.jpg 936,529,982,582,0 1022,539,1064,587,0 966,574,1003,641,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/157.jpg 444,199,479,284,0 458,251,487,327,0 481,286,551,330,0 1377,182,1417,234,0 534,934,612,977,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/159.jpg 442,195,477,279,0 452,255,487,330,0 482,287,552,335,0 1379,177,1418,225,0 529,937,617,982,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/185.jpg 873,219,926,324,0 786,455,858,530,0 834,699,927,745,0 853,781,896,871,0 956,745,1031,847,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/79.jpg 442,551,546,592,0 896,287,929,380,0 986,235,1032,347,0 1246,450,1332,495,0 1156,610,1249,672,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/83.jpg 501,101,583,136,0 508,169,557,242,0 536,937,618,976,0 1137,754,1223,814,0 1371,181,1422,240,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/29.jpg 964,471,1017,534,0 1026,534,1076,590,0 899,511,968,572,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/216.jpg 448,231,508,314,0 627,256,686,299,0 1199,155,1301,204,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/280.jpg 537,156,639,216,0 357,381,458,430,0 324,570,437,614,0 383,600,482,650,0 862,725,893,827,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/17.jpg 931,524,979,586,0 962,572,1004,644,0 1022,532,1061,584,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/372.jpg 297,110,412,152,0 237,355,354,394,0 348,580,447,640,0 269,564,344,602,0 849,817,892,916,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/358.jpg 499,71,587,126,0 492,300,529,351,0 689,894,721,962,0 1238,915,1268,1030,0 1381,162,1422,221,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/265.jpg 762,261,856,302,0 1096,159,1157,206,0 1047,354,1127,419,0 1013,506,1072,589,0 883,621,953,712,0 544,511,624,541,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/85.jpg 502,104,582,136,0 501,174,557,247,0 532,935,623,982,0 1134,749,1227,820,0 1372,169,1412,236,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/39.jpg 916,446,961,536,0 922,572,986,619,0 656,557,702,622,0 1431,287,1509,352,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/335.jpg 827,150,937,240,0 638,587,758,634,0 346,94,438,147,0 96,167,233,227,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/37.jpg 924,450,964,527,0 919,571,983,622,0 663,554,702,624,0 1429,286,1509,360,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/196.jpg 852,6,904,110,0 813,429,887,510,0 1082,509,1146,596,0 921,621,1011,672,0 1191,647,1299,707,0 1077,874,1116,1024,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/388.jpg 883,224,927,319,0 811,484,887,549,0 833,696,908,740,0 862,787,898,860,0 959,750,1028,836,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/267.jpg 546,515,621,541,0 766,257,852,300,0 1096,156,1158,204,0 1044,354,1128,421,0 1009,504,1076,591,0 887,617,959,709,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/311.jpg 933,521,972,577,0 952,561,999,624,0 1028,532,1066,594,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/322.jpg 1022,540,1068,592,0 931,529,978,575,0 956,557,997,620,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/efsb/357.jpg 563,101,627,144,0 491,199,564,234,0 529,934,616,981,0 1148,747,1218,814,0 1376,182,1413,230,0
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/245.jpg 793,67,1016,307,1 1261,437,1568,745,1 832,837,984,1002,1 342,472,551,675,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/240.jpg 758,1,1001,149,1 146,486,338,656,1 1399,477,1587,666,1 714,902,1017,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/107.jpg 402,80,632,300,1 1347,77,1591,316,1 1313,777,1559,1027,1 386,786,618,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/199.jpg 1357,84,1582,315,1 1322,790,1552,1016,1 391,792,609,1010,1 401,81,633,296,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/56.jpg 714,1,1147,206,1 1328,329,1749,786,1 707,970,1110,1080,1 42,332,601,839,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/191.jpg 336,471,556,675,1 783,65,1016,312,1 1258,437,1558,735,1 839,831,981,1007,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/25.jpg 452,106,687,344,1 474,751,712,999,1 1188,766,1419,996,1 1221,125,1451,342,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/266.jpg 454,104,691,341,1 1224,124,1446,350,1 1189,762,1411,987,1 487,752,718,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/425.jpg 718,904,1019,1080,1 158,486,334,655,1 762,1,1002,150,1 1394,474,1587,669,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/396.jpg 758,1,1002,150,1 152,487,336,655,1 713,901,1013,1080,1 1393,474,1588,670,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/172.jpg 1189,762,1406,989,1 479,752,716,1001,1 456,102,696,344,1 1222,130,1448,351,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/269.jpg 458,110,691,340,1 1228,127,1447,347,1 1192,767,1412,990,1 487,754,717,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/243.jpg 791,66,1023,307,1 346,475,547,676,1 832,837,986,1000,1 1262,441,1557,736,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/310.jpg 715,1,1139,200,1 49,325,598,830,1 712,975,1098,1080,1 1328,327,1738,776,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/43.jpg 399,80,642,302,1 1358,84,1593,314,1 1317,782,1552,1022,1 387,790,627,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/349.jpg 406,77,632,314,1 1356,85,1592,320,1 1327,796,1552,1014,1 388,791,608,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/386.jpg 457,106,687,336,1 1224,130,1447,340,1 1196,766,1412,996,1 484,752,719,992,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/381.jpg 482,747,721,999,1 1189,761,1413,995,1 1228,126,1456,349,1 452,106,706,340,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/257.jpg 453,109,692,341,1 1222,126,1443,347,1 1188,770,1407,989,1 481,751,719,989,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/84.jpg 449,110,691,341,1 479,741,723,1004,1 1183,761,1406,999,1 1219,125,1456,351,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/92.jpg 788,59,1022,310,1 338,467,554,685,1 823,831,989,1002,1 1259,427,1561,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/55.jpg 1317,327,1761,779,1 693,1,1157,202,1 47,335,596,827,1 719,970,1108,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/68.jpg 783,59,1019,316,1 1262,424,1558,736,1 829,829,992,1001,1 339,475,556,682,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/74.jpg 784,50,1017,311,1 329,466,554,686,1 831,829,987,1005,1 1261,434,1561,739,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/412.jpg 51,334,596,827,1 704,1,1142,197,1 1332,336,1738,774,1 727,980,1091,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/251.jpg 457,110,693,340,1 486,750,719,999,1 1189,767,1412,990,1 1224,129,1447,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/422.jpg 712,1,1138,196,1 1349,339,1742,770,1 720,980,1112,1080,1 46,321,598,826,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/342.jpg 487,749,718,999,1 1194,762,1407,992,1 457,102,684,342,1 1226,126,1448,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/136.jpg 344,475,552,675,1 791,64,1021,314,1 1266,432,1566,737,1 831,831,984,1009,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/76.jpg 337,477,558,681,1 826,830,988,1006,1 786,66,1016,316,1 1256,424,1562,735,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/249.jpg 760,1,1001,146,1 1399,480,1583,664,1 715,905,1024,1080,1 153,486,337,652,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/387.jpg 457,107,687,345,1 1227,130,1449,352,1 1192,766,1413,990,1 486,752,717,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/221.jpg 449,110,699,342,1 1223,131,1446,354,1 478,745,723,1007,1 1193,757,1419,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/21.jpg 727,974,1093,1080,1 1337,334,1746,776,1 710,1,1146,200,1 47,336,601,824,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/286.jpg 457,110,691,351,1 1219,130,1447,351,1 1186,760,1413,996,1 482,755,721,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/219.jpg 451,112,686,341,1 1222,126,1448,352,1 1188,761,1421,994,1 478,754,726,1007,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/339.jpg 457,109,691,344,1 1224,127,1444,351,1 1192,766,1409,991,1 481,751,722,994,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/321.jpg 46,332,596,824,1 719,974,1097,1080,1 1331,326,1748,771,1 720,1,1141,200,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/108.jpg 398,79,642,295,1 1354,86,1589,316,1 1318,792,1557,1021,1 387,796,614,1010,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/344.jpg 483,751,717,1000,1 1193,760,1406,992,1 1224,127,1444,350,1 458,110,687,341,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/9.jpg 753,1,1003,151,1 139,481,344,660,1 1391,469,1592,669,1 712,906,1013,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/65.jpg 451,104,692,345,1 482,750,716,999,1 1188,759,1411,990,1 1227,125,1448,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/97.jpg 788,67,1023,307,1 327,472,553,681,1 821,832,984,1010,1 1262,422,1564,742,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/72.jpg 827,830,989,1009,1 336,476,553,682,1 778,52,1019,321,1 1263,422,1564,742,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/362.jpg 153,485,338,652,1 758,1,999,150,1 1393,475,1588,671,1 710,907,1019,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/430.jpg 159,490,341,657,1 760,1,999,150,1 716,902,1010,1080,1 1391,476,1576,677,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/366.jpg 711,905,1013,1080,1 151,481,334,655,1 1398,475,1584,664,1 764,1,1006,147,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/63.jpg 782,69,1017,314,1 333,486,547,680,1 829,834,982,1002,1 1253,429,1558,734,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/411.jpg 48,330,598,825,1 716,980,1101,1080,1 713,1,1141,205,1 1339,339,1743,784,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/393.jpg 718,907,1012,1080,1 1397,476,1583,669,1 758,1,998,147,1 143,479,347,654,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/120.jpg 458,105,686,337,1 1227,126,1446,349,1 1189,760,1413,991,1 483,752,712,990,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/312.jpg 49,327,594,826,1 715,1,1143,206,1 1334,334,1747,776,1 729,976,1116,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/270.jpg 1227,129,1444,344,1 454,107,687,337,1 488,755,716,999,1 1192,764,1414,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/6.jpg 1226,120,1444,351,1 456,106,688,339,1 474,751,743,1007,1 1192,766,1417,991,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/204.jpg 1352,74,1588,324,1 1319,789,1553,1019,1 393,789,613,1017,1 404,74,636,301,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/263.jpg 452,107,693,342,1 1224,124,1446,349,1 1189,757,1412,994,1 486,752,719,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/290.jpg 1227,126,1448,350,1 1189,761,1413,994,1 488,747,724,1001,1 457,100,691,335,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/364.jpg 714,906,1010,1080,1 1394,476,1587,672,1 766,1,999,151,1 151,487,339,656,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/42.jpg 399,81,637,302,1 387,792,621,1017,1 1351,85,1587,316,1 1323,791,1552,1027,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/239.jpg 344,474,551,675,1 789,71,1022,309,1 1264,442,1563,735,1 837,834,982,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/354.jpg 1358,87,1593,311,1 1322,791,1552,1021,1 389,795,612,1010,1 403,82,639,299,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/82.jpg 457,109,686,340,1 483,742,714,1000,1 1183,766,1413,984,1 1234,129,1442,354,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/277.jpg 759,1,998,147,1 151,487,338,660,1 711,902,1011,1080,1 1393,472,1584,669,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/33.jpg 1327,327,1746,774,1 723,969,1108,1080,1 48,339,591,825,1 715,1,1147,220,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/384.jpg 456,110,686,344,1 1227,129,1444,349,1 1189,764,1413,990,1 487,752,716,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/1.jpg 454,112,693,335,1 1228,131,1453,346,1 487,754,732,999,1 1193,766,1411,987,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/188.jpg 458,109,689,340,1 1226,130,1448,347,1 1188,764,1412,987,1 483,750,713,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/19.jpg 47,331,592,825,1 1329,337,1744,779,1 717,1,1146,202,1 712,980,1100,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/223.jpg 481,754,724,999,1 454,106,682,336,1 1222,131,1442,341,1 1194,764,1409,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/103.jpg 454,112,698,350,1 1227,129,1444,352,1 1188,760,1407,992,1 483,747,723,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/12.jpg 703,1,1151,199,1 38,335,596,834,1 1326,335,1742,775,1 719,984,1101,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/86.jpg 446,107,694,345,1 1221,121,1447,347,1 1192,757,1406,995,1 484,754,722,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/238.jpg 754,1,1001,147,1 146,482,339,654,1 1392,474,1588,665,1 711,904,1019,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/380.jpg 456,107,684,340,1 1223,131,1444,349,1 1189,761,1416,992,1 486,750,716,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/36.jpg 449,111,706,350,1 483,750,718,1001,1 1191,767,1409,994,1 1226,125,1452,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/166.jpg 489,755,718,997,1 1188,761,1407,989,1 1231,132,1441,351,1 458,111,689,341,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/126.jpg 486,751,714,995,1 1186,761,1408,990,1 1217,129,1449,352,1 458,102,687,345,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/150.jpg 459,105,689,345,1 483,751,719,996,1 1231,129,1443,355,1 1189,757,1417,991,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/308.jpg 717,1,1146,201,1 1331,326,1739,782,1 734,977,1101,1080,1 41,336,596,827,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/209.jpg 407,82,631,301,1 1352,87,1589,311,1 1323,791,1552,1020,1 399,795,607,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/345.jpg 459,110,684,342,1 1231,127,1442,347,1 1196,765,1408,992,1 486,754,722,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/423.jpg 152,482,336,655,1 763,1,1001,154,1 718,905,1022,1080,1 1398,476,1588,670,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/162.jpg 454,107,691,340,1 481,750,724,1005,1 1193,765,1416,989,1 1223,130,1449,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/49.jpg 695,1,1158,209,1 1326,324,1743,789,1 720,976,1106,1080,1 36,325,608,831,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/130.jpg 459,111,689,342,1 1221,126,1451,347,1 1186,759,1409,994,1 487,749,716,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/151.jpg 457,111,693,344,1 1226,124,1446,350,1 1188,765,1413,989,1 486,751,723,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/206.jpg 403,77,637,302,1 1357,86,1583,324,1 1317,795,1549,1026,1 382,791,616,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/395.jpg 714,905,1017,1079,1 144,485,337,660,1 762,1,1001,150,1 1396,471,1581,675,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/246.jpg 149,484,341,657,1 701,902,1013,1080,1 1393,474,1584,665,1 762,1,1001,147,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/378.jpg 1223,130,1441,349,1 1189,765,1412,990,1 486,754,714,995,1 453,107,689,341,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/205.jpg 404,80,634,299,1 1354,89,1578,321,1 1322,794,1547,1025,1 389,795,614,1010,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/134.jpg 1256,432,1561,736,1 833,835,979,1009,1 348,472,554,679,1 784,62,1021,312,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/117.jpg 451,106,686,340,1 1227,124,1453,346,1 1188,760,1412,997,1 481,755,716,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/111.jpg 403,81,631,296,1 1351,82,1588,322,1 1323,789,1554,1021,1 386,792,612,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/211.jpg 453,107,684,341,1 1233,135,1444,349,1 1191,757,1414,989,1 482,749,716,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/131.jpg 456,105,688,346,1 1222,129,1452,349,1 1191,760,1407,996,1 486,751,718,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/140.jpg 454,104,688,345,1 1228,135,1444,347,1 1193,767,1409,994,1 481,752,717,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/91.jpg 452,105,688,345,1 477,740,721,1006,1 1226,121,1442,349,1 1191,765,1408,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/93.jpg 331,462,561,681,1 826,826,998,1015,1 1272,435,1564,734,1 787,64,1024,314,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/90.jpg 779,61,1033,325,1 1252,427,1558,734,1 817,831,986,1007,1 329,475,556,676,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/128.jpg 456,109,689,339,1 1226,127,1446,352,1 1183,764,1413,991,1 482,752,719,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/361.jpg 761,1,1003,149,1 144,480,343,660,1 1394,469,1582,666,1 712,901,1021,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/301.jpg 1337,337,1744,772,1 712,1,1144,201,1 728,977,1112,1080,1 44,330,596,825,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/394.jpg 768,1,1001,147,1 149,481,336,657,1 708,906,1018,1080,1 1393,479,1591,670,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/258.jpg 481,747,721,1000,1 1191,767,1413,994,1 457,106,687,345,1 1227,135,1448,346,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/291.jpg 453,105,686,342,1 1221,127,1441,352,1 1191,759,1407,992,1 482,750,719,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/392.jpg 153,482,332,662,1 709,902,1024,1080,1 1392,477,1584,675,1 760,1,998,149,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/165.jpg 457,107,687,335,1 1222,131,1442,354,1 1193,760,1408,996,1 487,747,716,991,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/428.jpg 156,485,333,656,1 713,901,1015,1080,1 760,1,998,147,1 1394,474,1586,671,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/429.jpg 157,486,336,654,1 716,909,1016,1080,1 758,1,996,146,1 1398,476,1586,671,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/132.jpg 483,752,722,999,1 1196,766,1418,992,1 1228,124,1446,344,1 458,110,683,340,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/302.jpg 49,329,593,829,1 710,1,1144,196,1 1323,334,1743,776,1 722,976,1114,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/299.jpg 486,747,719,997,1 1183,759,1408,994,1 1222,129,1447,352,1 457,109,693,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/262.jpg 456,105,688,346,1 1228,129,1448,347,1 1189,761,1417,987,1 484,752,721,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/271.jpg 454,109,692,342,1 1226,131,1447,350,1 1188,761,1413,995,1 483,752,719,1007,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/186.jpg 487,747,719,999,1 1191,761,1406,991,1 458,102,679,340,1 1216,127,1447,354,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/273.jpg 152,486,344,655,1 762,1,998,146,1 1396,477,1589,666,1 710,905,1012,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/424.jpg 763,1,999,147,1 148,482,344,652,1 708,902,1014,1080,1 1394,474,1582,665,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/313.jpg 708,1,1139,202,1 1327,334,1742,777,1 725,979,1101,1080,1 39,329,598,830,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/352.jpg 404,80,636,296,1 1357,87,1588,311,1 1323,790,1556,1022,1 392,794,609,1009,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/180.jpg 454,107,686,341,1 1221,130,1451,349,1 1187,755,1414,989,1 477,751,722,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/61.jpg 449,105,694,346,1 484,749,717,992,1 1191,765,1411,994,1 1228,129,1446,351,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/212.jpg 453,105,697,340,1 1222,130,1443,354,1 1188,764,1411,985,1 489,750,721,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/13.jpg 46,340,598,829,1 704,1,1143,196,1 1332,340,1742,777,1 723,981,1103,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/60.jpg 713,1,1158,211,1 1322,334,1749,776,1 717,975,1111,1080,1 37,335,599,829,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/214.jpg 454,105,686,342,1 483,747,708,996,1 1192,762,1419,994,1 1229,127,1444,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/45.jpg 401,76,639,302,1 389,790,613,1012,1 1327,785,1552,1022,1 1358,87,1594,325,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/416.jpg 342,476,562,681,1 832,835,984,1001,1 1266,437,1554,737,1 793,67,1021,310,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/383.jpg 482,755,722,1005,1 456,105,697,340,1 1223,130,1444,350,1 1189,762,1412,992,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/144.jpg 454,106,688,341,1 1227,130,1447,349,1 1188,766,1413,994,1 487,756,719,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/275.jpg 759,1,999,150,1 146,486,336,654,1 704,901,1020,1080,1 1398,475,1581,671,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/141.jpg 834,840,984,1006,1 1261,441,1562,736,1 793,66,1022,315,1 346,471,547,676,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/133.jpg 457,109,687,345,1 1224,127,1448,352,1 1187,757,1414,1000,1 483,754,719,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/233.jpg 343,470,549,675,1 792,69,1021,310,1 1259,435,1566,744,1 829,836,982,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/177.jpg 457,105,688,344,1 1228,125,1453,347,1 1186,764,1416,989,1 482,755,721,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/278.jpg 151,484,338,656,1 701,902,1021,1080,1 1392,474,1582,669,1 761,1,1007,152,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/94.jpg 327,476,551,679,1 781,70,1017,317,1 1253,435,1573,739,1 827,829,998,1006,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/8.jpg 787,60,1026,319,1 1262,432,1551,744,1 836,835,991,1006,1 344,467,547,676,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/38.jpg 1359,80,1589,324,1 1319,784,1558,1026,1 389,794,617,1022,1 398,76,634,296,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/351.jpg 401,77,637,300,1 1352,87,1588,315,1 1323,794,1558,1021,1 389,791,613,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/142.jpg 456,106,689,339,1 1227,130,1446,347,1 1187,761,1414,997,1 484,751,714,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/391.jpg 152,490,337,654,1 712,905,1018,1080,1 766,1,998,145,1 1394,480,1587,670,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/287.jpg 486,752,726,1004,1 1186,759,1413,996,1 1229,126,1446,355,1 449,102,694,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/419.jpg 787,66,1028,314,1 334,470,549,676,1 831,831,982,1000,1 1262,439,1562,740,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/360.jpg 797,69,1018,314,1 346,471,556,676,1 836,839,987,1000,1 1262,432,1559,741,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/115.jpg 399,80,632,305,1 1363,82,1587,317,1 1317,784,1553,1025,1 389,789,613,1016,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/99.jpg 341,476,548,684,1 823,831,994,1011,1 1253,431,1568,741,1 772,59,1019,311,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/190.jpg 344,472,542,679,1 798,67,1023,311,1 1257,440,1564,754,1 831,832,976,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/57.jpg 706,1,1149,204,1 1323,320,1749,779,1 707,965,1108,1080,1 43,327,607,832,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/152.jpg 486,749,724,992,1 1188,761,1411,991,1 451,106,683,346,1 1227,125,1444,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/338.jpg 458,106,692,345,1 1226,127,1454,347,1 1191,759,1411,991,1 491,745,721,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/417.jpg 793,71,1016,316,1 337,476,548,677,1 832,835,987,1004,1 1266,435,1557,740,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/234.jpg 342,474,551,674,1 787,64,1018,315,1 1257,435,1556,736,1 834,836,984,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/143.jpg 837,835,984,1006,1 338,471,552,679,1 789,69,1019,310,1 1261,432,1558,741,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/370.jpg 298,115,413,156,0 231,350,356,394,0 351,580,444,645,0 272,562,342,599,0 847,821,894,917,0 151,481,338,660,1 763,1,1004,152,1 1397,476,1586,666,1 712,905,1017,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/81.jpg 343,470,557,690,1 779,65,1017,305,1 1271,422,1566,740,1 826,829,992,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/66.jpg 781,70,1016,312,1 1263,431,1559,736,1 831,839,987,1005,1 334,474,551,682,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/208.jpg 1359,86,1584,315,1 403,80,642,299,1 384,790,617,1015,1 1323,795,1548,1017,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/124.jpg 453,109,686,341,1 1222,129,1443,347,1 1193,759,1407,995,1 484,752,717,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/250.jpg 151,486,339,656,1 717,902,1017,1080,1 1399,479,1584,669,1 762,1,1001,151,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/363.jpg 148,481,338,657,1 761,1,998,149,1 1402,474,1583,666,1 710,904,1018,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/158.jpg 454,107,686,344,1 486,749,718,997,1 1193,766,1416,992,1 1229,132,1448,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/305.jpg 46,335,591,825,1 702,1,1139,199,1 1336,340,1742,775,1 729,976,1102,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/261.jpg 454,101,693,347,1 1219,124,1448,350,1 1189,764,1411,989,1 484,750,719,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/390.jpg 151,482,342,656,1 762,1,998,145,1 1394,477,1586,665,1 711,905,1012,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/0.jpg 456,100,698,340,1 1222,126,1449,346,1 486,756,713,1000,1 1189,770,1407,990,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/119.jpg 458,109,688,339,1 482,751,714,994,1 1191,762,1406,991,1 1227,127,1446,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/217.jpg 454,104,692,344,1 1216,122,1452,351,1 1188,764,1409,999,1 491,756,717,994,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/298.jpg 458,109,693,347,1 1229,129,1453,356,1 1192,761,1423,994,1 484,754,716,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/203.jpg 392,792,609,1011,1 402,79,638,304,1 1358,91,1598,316,1 1327,794,1564,1016,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/320.jpg 44,335,603,829,1 716,976,1109,1080,1 1332,334,1741,780,1 713,1,1142,200,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/41.jpg 1361,80,1586,324,1 1323,785,1561,1030,1 383,791,623,1017,1 404,77,646,307,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/421.jpg 342,472,547,691,1 788,67,1023,306,1 1261,439,1561,737,1 833,839,979,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/418.jpg 834,835,988,1000,1 339,476,563,680,1 787,67,1024,311,1 1263,434,1563,732,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/202.jpg 401,77,638,302,1 1357,87,1588,324,1 1319,787,1554,1016,1 389,786,616,1014,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/109.jpg 401,79,637,300,1 1353,87,1586,316,1 1326,792,1551,1022,1 394,796,613,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/98.jpg 319,457,558,680,1 829,835,984,1014,1 1254,422,1557,735,1 786,66,1027,314,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/201.jpg 408,80,638,292,1 1352,85,1597,319,1 1319,792,1564,1024,1 391,787,618,1016,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/350.jpg 1354,82,1586,312,1 1317,789,1563,1026,1 387,794,613,1012,1 402,76,636,299,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/35.jpg 452,110,693,346,1 1224,124,1446,342,1 1193,766,1409,989,1 487,750,714,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/264.jpg 453,102,693,342,1 1226,127,1444,351,1 1191,766,1411,989,1 482,752,719,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/27.jpg 717,1,1138,201,1 1336,337,1746,774,1 724,971,1108,1080,1 46,326,594,826,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/46.jpg 446,104,694,345,1 1223,125,1449,349,1 1191,760,1407,989,1 486,750,717,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/346.jpg 488,755,719,996,1 1188,764,1412,989,1 1223,132,1446,340,1 458,107,694,344,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/410.jpg 43,330,598,822,1 727,979,1100,1080,1 1331,339,1741,767,1 715,1,1142,200,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/200.jpg 408,80,649,317,1 1357,86,1587,320,1 1319,791,1551,1024,1 386,797,622,1022,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/160.jpg 449,109,691,340,1 1223,124,1447,345,1 1189,762,1404,987,1 484,750,712,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/123.jpg 479,746,712,997,1 1191,767,1409,995,1 1223,127,1444,352,1 454,100,689,344,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/101.jpg 444,100,696,352,1 1222,125,1449,350,1 1187,760,1414,994,1 483,752,716,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/253.jpg 454,109,694,344,1 1223,130,1452,352,1 1194,766,1414,999,1 483,752,717,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/161.jpg 456,111,689,340,1 1217,130,1446,349,1 1193,762,1413,989,1 484,749,718,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/307.jpg 44,324,597,834,1 706,1,1143,202,1 1329,330,1746,769,1 728,982,1101,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/226.jpg 433,106,692,342,1 1229,130,1453,341,1 482,751,718,999,1 1187,760,1413,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/389.jpg 768,1,998,145,1 712,906,1011,1080,1 1394,480,1587,670,1 152,482,343,655,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/409.jpg 151,486,341,659,1 760,1,998,150,1 1394,474,1587,675,1 712,907,1017,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/114.jpg 402,79,636,306,1 1353,82,1584,316,1 1323,791,1552,1022,1 389,790,616,1016,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/87.jpg 439,106,688,337,1 483,744,719,1002,1 1186,754,1414,996,1 1226,130,1446,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/11.jpg 1334,340,1733,776,1 730,977,1112,1080,1 42,334,609,832,1 712,1,1138,199,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/293.jpg 154,480,344,660,1 763,1,1001,154,1 1399,475,1588,672,1 709,905,1022,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/189.jpg 832,834,982,1005,1 1264,442,1559,744,1 342,472,556,680,1 793,62,1016,317,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/227.jpg 451,111,691,340,1 1226,127,1442,349,1 1194,759,1412,989,1 482,752,728,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/343.jpg 459,107,686,344,1 1224,125,1451,346,1 1192,760,1412,995,1 483,750,718,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/89.jpg 454,107,694,339,1 476,747,718,997,1 1183,756,1412,990,1 1217,119,1453,352,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/137.jpg 341,472,549,675,1 794,67,1023,315,1 1261,434,1561,736,1 831,832,981,1006,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/163.jpg 453,111,688,344,1 1223,124,1448,352,1 1192,765,1411,989,1 483,751,716,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/379.jpg 453,109,694,340,1 1227,127,1447,347,1 1188,767,1409,990,1 484,756,721,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/40.jpg 406,80,636,300,1 1361,84,1582,315,1 1324,784,1558,1019,1 389,795,617,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/399.jpg 152,481,333,656,1 762,1,997,149,1 1394,471,1591,675,1 712,907,1024,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/64.jpg 781,65,1024,305,1 1254,430,1558,746,1 828,830,989,1006,1 331,471,551,682,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/44.jpg 402,77,639,295,1 1343,84,1592,314,1 1316,790,1554,1022,1 383,792,614,1014,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/326.jpg 48,331,592,830,1 717,1,1149,202,1 1333,330,1746,780,1 722,977,1101,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/318.jpg 46,335,594,829,1 713,971,1102,1080,1 1333,331,1742,782,1 708,1,1138,194,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/431.jpg 758,1,999,147,1 151,485,332,659,1 714,904,1010,1080,1 1397,481,1581,665,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/397.jpg 156,489,333,657,1 707,902,1012,1080,1 1393,476,1587,671,1 762,1,999,144,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/77.jpg 781,56,1021,317,1 1264,431,1573,746,1 829,835,987,1002,1 336,475,551,684,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/382.jpg 453,109,694,336,1 1224,131,1448,349,1 1187,762,1406,990,1 483,754,717,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/181.jpg 831,837,988,1002,1 346,471,554,671,1 1258,439,1558,736,1 792,71,1019,312,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/231.jpg 839,835,986,1005,1 339,470,554,672,1 792,61,1019,315,1 1261,435,1563,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/359.jpg 454,111,692,340,1 1226,131,1444,351,1 1191,762,1416,999,1 486,752,723,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/374.jpg 152,485,342,656,1 713,909,1012,1080,1 1392,479,1589,661,1 756,1,1006,145,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/179.jpg 1231,127,1448,344,1 1184,761,1411,989,1 488,747,722,1004,1 461,106,691,346,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/210.jpg 1233,131,1439,350,1 1192,764,1408,990,1 478,749,723,1001,1 451,100,691,340,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/408.jpg 454,109,688,340,1 1227,129,1443,346,1 1187,765,1409,992,1 482,752,721,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/420.jpg 1267,437,1557,741,1 348,470,551,676,1 787,66,1019,314,1 836,839,988,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/426.jpg 1394,474,1581,666,1 762,1,996,145,1 716,904,1010,1080,1 152,489,339,651,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/52.jpg 708,1,1144,204,1 1328,326,1748,781,1 718,980,1108,1079,1 34,329,612,825,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/32.jpg 1336,332,1747,779,1 707,1,1164,205,1 714,980,1107,1080,1 47,329,609,831,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/348.jpg 1357,86,1596,316,1 1324,791,1557,1017,1 388,794,616,1007,1 406,82,633,299,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/292.jpg 832,834,986,1004,1 336,471,553,677,1 787,62,1023,317,1 1259,436,1561,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/145.jpg 834,837,983,1002,1 1263,435,1559,742,1 794,74,1021,310,1 346,467,549,680,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/260.jpg 486,754,716,997,1 1191,764,1412,989,1 1224,126,1446,351,1 452,105,689,344,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/323.jpg 1333,337,1738,771,1 729,980,1102,1080,1 52,331,594,825,1 717,1,1142,204,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/300.jpg 454,104,687,342,1 1227,126,1446,349,1 1183,751,1416,1002,1 481,755,722,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/187.jpg 794,66,1017,312,1 336,469,553,670,1 1253,436,1557,744,1 834,837,984,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/67.jpg 782,66,1021,315,1 336,466,553,680,1 833,834,988,1006,1 1259,431,1559,742,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/34.jpg 1326,332,1742,780,1 714,1,1152,209,1 42,321,596,830,1 711,976,1099,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/171.jpg 456,114,693,337,1 1221,129,1446,345,1 1184,761,1414,989,1 492,752,717,994,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/178.jpg 456,102,687,345,1 1228,124,1446,341,1 1189,761,1416,992,1 482,749,716,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/127.jpg 457,109,688,342,1 1223,130,1446,350,1 1187,762,1412,994,1 483,752,719,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/122.jpg 459,111,687,339,1 1226,134,1444,349,1 1191,770,1408,992,1 488,749,718,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/235.jpg 342,472,548,675,1 791,66,1018,310,1 1262,436,1559,739,1 836,835,984,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/241.jpg 341,470,549,676,1 834,837,986,1002,1 1266,439,1556,737,1 792,66,1023,312,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/100.jpg 444,99,706,340,1 483,737,726,1000,1 1181,765,1423,992,1 1221,119,1447,352,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/26.jpg 1333,330,1742,779,1 718,981,1102,1080,1 44,330,597,831,1 703,1,1143,204,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/31.jpg 714,1,1147,206,1 51,331,599,830,1 716,975,1105,1080,1 1337,330,1747,776,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/337.jpg 454,105,701,345,1 1226,130,1451,354,1 1189,761,1414,990,1 487,749,721,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/236.jpg 833,839,986,1004,1 342,467,551,674,1 789,65,1019,312,1 1262,439,1562,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/414.jpg 787,71,1026,314,1 338,470,548,681,1 837,839,981,1004,1 1267,435,1556,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/314.jpg 49,327,596,831,1 714,984,1108,1080,1 1327,330,1748,775,1 705,1,1144,206,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/175.jpg 458,107,692,341,1 1228,126,1448,354,1 1184,761,1409,991,1 484,755,721,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/276.jpg 758,1,998,151,1 146,484,341,659,1 707,897,1016,1080,1 1393,477,1587,667,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/146.jpg 456,110,693,340,1 1226,130,1439,354,1 1187,772,1413,987,1 478,747,721,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/256.jpg 484,751,722,996,1 1189,766,1411,992,1 453,111,687,347,1 1228,129,1442,354,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/272.jpg 833,835,986,1004,1 342,471,548,672,1 791,65,1028,315,1 1262,440,1556,739,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/10.jpg 486,752,723,996,1 454,104,686,341,1 1226,122,1443,350,1 1189,769,1418,989,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/237.jpg 343,470,548,677,1 782,62,1028,310,1 1258,437,1561,739,1 836,834,983,1007,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/228.jpg 483,749,719,999,1 451,110,687,339,1 1227,130,1447,356,1 1188,760,1413,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/88.jpg 448,109,686,341,1 477,742,719,1000,1 1183,754,1408,995,1 1221,122,1453,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/47.jpg 447,104,703,340,1 477,749,722,1000,1 1187,762,1413,995,1 1226,129,1449,352,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/58.jpg 457,106,683,339,1 1223,126,1451,345,1 1189,765,1416,997,1 483,746,722,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/248.jpg 156,485,339,651,1 766,1,999,142,1 1393,476,1591,667,1 715,904,1016,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/106.jpg 488,751,716,996,1 1187,761,1409,996,1 1217,121,1453,351,1 456,101,692,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/368.jpg 158,484,343,659,1 709,905,1013,1080,1 1396,479,1582,666,1 767,1,998,146,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/154.jpg 486,754,714,1001,1 1182,762,1413,987,1 1223,129,1448,359,1 448,107,699,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/427.jpg 154,487,344,654,1 712,904,1013,1080,1 765,1,1007,145,1 1388,475,1593,672,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/7.jpg 454,104,693,346,1 477,752,716,996,1 1192,764,1409,987,1 1219,130,1441,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/222.jpg 449,105,688,337,1 1224,121,1444,347,1 1192,760,1413,991,1 487,754,713,1006,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/139.jpg 338,470,556,675,1 834,834,982,1005,1 788,66,1026,317,1 1261,431,1563,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/173.jpg 838,841,993,1001,1 341,474,546,669,1 796,71,1022,312,1 1266,435,1557,742,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/224.jpg 452,106,688,336,1 1228,130,1449,351,1 1193,760,1413,987,1 488,751,716,1014,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/169.jpg 451,110,689,339,1 1223,130,1448,351,1 1188,760,1411,989,1 482,754,714,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/70.jpg 774,65,1033,317,1 1254,429,1566,737,1 831,831,991,1005,1 342,470,557,685,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/315.jpg 718,1,1146,197,1 1337,332,1736,776,1 723,976,1102,1080,1 38,330,591,826,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/220.jpg 453,107,689,346,1 1224,130,1442,344,1 1193,757,1412,991,1 481,754,719,1006,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/281.jpg 149,490,341,655,1 706,899,1018,1080,1 1391,471,1583,671,1 765,1,999,152,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/182.jpg 151,484,344,657,1 761,1,1016,157,1 720,901,1014,1080,1 1391,470,1581,667,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/176.jpg 343,470,551,675,1 789,64,1029,307,1 1266,432,1564,737,1 832,839,982,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/148.jpg 484,752,718,996,1 1188,769,1417,995,1 454,110,692,340,1 1228,122,1442,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/385.jpg 454,106,687,341,1 1231,129,1438,350,1 1189,767,1413,990,1 488,755,713,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/304.jpg 937,524,971,572,0 956,557,994,622,0 1028,539,1068,585,0 1324,332,1737,781,1 716,1,1148,201,1 708,975,1106,1080,1 41,332,604,831,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/207.jpg 408,75,632,304,1 1357,89,1586,316,1 1324,794,1563,1020,1 394,795,613,1010,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/129.jpg 479,749,716,994,1 456,109,691,344,1 1223,129,1448,350,1 1191,762,1408,992,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/230.jpg 457,102,693,350,1 1224,125,1442,361,1 1187,765,1412,994,1 486,755,717,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/156.jpg 481,746,718,1001,1 1191,765,1414,994,1 454,104,691,341,1 1231,129,1449,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/48.jpg 712,1,1147,205,1 1332,334,1747,785,1 717,979,1101,1075,1 47,330,594,826,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/259.jpg 458,107,696,340,1 1228,130,1451,351,1 1192,764,1407,995,1 487,752,716,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/413.jpg 791,67,1017,310,1 1257,440,1563,744,1 834,834,989,1005,1 346,472,548,675,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/4.jpg 761,1,994,145,1 147,480,336,656,1 1399,475,1592,674,1 709,905,1017,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/232.jpg 764,1,999,146,1 154,485,341,654,1 708,905,1011,1080,1 1396,470,1583,667,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/110.jpg 401,77,637,301,1 1353,86,1589,319,1 1326,790,1558,1021,1 388,794,606,1010,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/95.jpg 784,62,1018,315,1 338,464,554,684,1 826,832,984,1005,1 1243,426,1573,737,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/317.jpg 714,1,1152,202,1 51,326,601,827,1 701,977,1108,1080,1 1331,330,1738,780,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/149.jpg 797,69,1019,316,1 832,836,988,994,1 1264,431,1556,742,1 342,469,556,679,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/164.jpg 457,106,691,346,1 1227,129,1448,350,1 1188,764,1413,989,1 482,749,719,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/279.jpg 767,1,999,151,1 147,479,343,659,1 714,901,1019,1080,1 1396,470,1587,665,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/50.jpg 705,1,1152,204,1 1329,337,1747,777,1 724,975,1114,1080,1 39,326,609,825,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/62.jpg 449,110,696,347,1 479,742,716,1001,1 1187,764,1408,992,1 1221,117,1447,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/2.jpg 452,105,688,340,1 1219,120,1444,347,1 1179,751,1419,1002,1 486,752,717,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/415.jpg 796,69,1016,312,1 1264,434,1558,739,1 837,839,988,1005,1 342,474,554,674,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/244.jpg 141,482,338,656,1 707,905,1015,1080,1 1397,479,1591,664,1 765,1,1016,151,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/51.jpg 1313,331,1748,782,1 684,1,1157,214,1 34,317,602,839,1 709,967,1086,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/167.jpg 457,107,683,341,1 1226,130,1444,355,1 1187,761,1408,995,1 484,754,714,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/155.jpg 458,107,687,346,1 1223,129,1449,349,1 1191,766,1413,992,1 479,754,724,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/96.jpg 338,472,558,679,1 787,62,1028,311,1 1267,435,1559,735,1 833,830,987,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/289.jpg 454,104,691,345,1 1229,129,1448,347,1 1192,761,1403,991,1 487,755,717,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/288.jpg 484,750,716,999,1 1188,762,1414,997,1 456,107,687,342,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/297.jpg 481,750,718,1002,1 1188,760,1413,997,1 1224,127,1451,351,1 458,105,696,344,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/174.jpg 454,107,692,345,1 1226,130,1447,350,1 1178,765,1412,990,1 483,746,721,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/282.jpg 709,902,1012,1080,1 1392,471,1586,665,1 762,1,1001,145,1 148,484,342,656,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/229.jpg 487,750,722,999,1 1193,764,1408,992,1 459,106,684,335,1 1223,126,1444,347,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/319.jpg 44,330,599,827,1 719,971,1095,1080,1 1341,331,1747,774,1 715,1,1142,194,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/53.jpg 1327,326,1748,777,1 697,1,1147,197,1 42,325,601,834,1 712,974,1099,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/121.jpg 451,106,691,345,1 1232,129,1443,349,1 1189,754,1408,995,1 486,751,716,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/268.jpg 452,106,693,340,1 1226,127,1447,349,1 1187,764,1409,990,1 481,750,722,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/247.jpg 157,484,337,654,1 715,909,1014,1080,1 1397,476,1581,662,1 760,1,1006,146,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/183.jpg 338,474,551,674,1 793,67,1023,314,1 1263,426,1564,736,1 836,831,997,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/147.jpg 788,67,1022,310,1 1261,440,1558,736,1 827,836,981,997,1 348,471,554,679,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/28.jpg 1333,329,1742,782,1 713,1,1143,205,1 722,975,1107,1080,1 44,331,601,825,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/218.jpg 453,107,696,340,1 1213,126,1443,354,1 1194,766,1404,997,1 472,751,721,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/274.jpg 152,486,339,656,1 709,907,1015,1080,1 1388,472,1591,665,1 759,1,1003,147,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/353.jpg 404,75,638,301,1 1358,89,1593,316,1 1319,792,1557,1016,1 391,792,611,1009,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/15.jpg 36,325,594,830,1 697,1,1140,206,1 1334,336,1737,774,1 701,975,1096,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/113.jpg 404,79,632,301,1 392,791,612,1012,1 1356,89,1584,322,1 1322,796,1547,1016,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/325.jpg 1334,334,1742,769,1 714,1,1148,200,1 47,332,594,831,1 714,974,1096,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/73.jpg 791,67,1013,310,1 1257,425,1562,739,1 829,834,996,1005,1 334,471,559,679,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/75.jpg 789,71,1013,311,1 343,470,553,680,1 833,829,991,1010,1 1258,435,1563,735,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/255.jpg 458,106,687,342,1 1221,134,1448,347,1 1188,766,1411,986,1 487,752,716,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/105.jpg 457,106,689,342,1 1223,129,1449,349,1 1194,762,1409,991,1 484,751,719,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/125.jpg 457,107,684,339,1 1228,129,1443,346,1 1188,760,1407,989,1 488,752,714,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/306.jpg 1329,335,1737,774,1 716,1,1148,200,1 49,336,596,824,1 711,979,1103,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/80.jpg 787,57,1019,324,1 328,464,562,689,1 831,830,987,1015,1 1237,416,1568,749,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/295.jpg 483,750,718,997,1 1189,764,1412,994,1 1226,127,1443,354,1 456,104,689,346,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/356.jpg 1359,86,1604,312,1 1324,796,1556,1016,1 389,794,612,1014,1 404,81,637,297,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/102.jpg 448,107,693,346,1 1221,130,1453,355,1 1183,755,1416,992,1 481,745,726,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/296.jpg 458,102,692,342,1 1224,125,1447,350,1 1189,761,1411,990,1 487,749,716,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/184.jpg 449,105,688,337,1 1227,130,1448,352,1 1184,764,1417,989,1 489,751,722,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/135.jpg 761,1,1003,145,1 718,901,1024,1080,1 1398,470,1588,669,1 147,484,342,657,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/316.jpg 53,329,603,835,1 716,976,1089,1080,1 1334,335,1746,775,1 708,1,1139,201,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/376.jpg 486,751,721,997,1 1189,766,1408,986,1 1226,126,1441,351,1 453,107,689,340,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/213.jpg 457,109,696,337,1 1216,124,1441,347,1 1186,769,1413,990,1 486,751,718,999,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/138.jpg 346,469,553,681,1 786,62,1024,316,1 1262,436,1562,735,1 834,837,982,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/69.jpg 786,65,1012,310,1 1258,434,1563,739,1 831,832,983,1004,1 331,480,556,681,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/118.jpg 454,104,688,341,1 1227,127,1449,346,1 1192,761,1411,1002,1 482,752,711,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/153.jpg 456,110,689,341,1 1226,127,1442,351,1 1189,764,1416,997,1 482,751,716,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/30.jpg 1316,321,1746,780,1 709,1,1146,207,1 725,979,1102,1080,1 44,329,599,831,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/168.jpg 488,746,718,994,1 1189,769,1418,987,1 1226,134,1452,351,1 457,111,692,340,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/309.jpg 1334,335,1741,774,1 731,977,1099,1080,1 46,332,594,835,1 714,1,1146,200,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/340.jpg 484,751,721,999,1 1188,756,1402,992,1 1223,125,1454,350,1 453,106,688,342,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/3.jpg 787,60,1018,319,1 341,466,556,679,1 1262,435,1554,739,1 832,836,981,1002,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/225.jpg 456,101,691,342,1 1217,115,1453,362,1 1191,765,1421,1002,1 478,746,719,1005,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/5.jpg 453,112,689,347,1 1228,129,1448,349,1 488,750,713,999,1 1191,765,1407,990,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/242.jpg 148,482,341,655,1 717,909,1012,1080,1 1397,475,1586,664,1 760,1,997,142,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/59.jpg 699,1,1147,199,1 1328,332,1746,784,1 729,972,1101,1080,1 38,320,618,835,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/198.jpg 409,79,636,306,1 1353,85,1584,319,1 1328,781,1561,1015,1 391,787,622,1017,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/112.jpg 406,77,631,306,1 1351,84,1593,315,1 1318,787,1553,1024,1 388,791,614,1012,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/254.jpg 489,755,716,997,1 1193,765,1414,997,1 1228,127,1449,346,1 458,107,684,341,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/355.jpg 404,81,643,295,1 1353,86,1592,315,1 1323,794,1549,1016,1 387,794,613,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/104.jpg 456,105,694,346,1 1227,134,1446,350,1 1183,759,1407,991,1 486,744,718,995,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/170.jpg 836,839,979,1004,1 339,474,557,674,1 794,66,1019,312,1 1262,432,1563,740,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/78.jpg 781,54,1017,319,1 1263,425,1559,740,1 829,831,991,1006,1 327,467,547,685,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/54.jpg 711,1,1138,200,1 1319,332,1741,772,1 706,975,1102,1080,1 43,337,592,824,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/252.jpg 484,750,718,995,1 1193,762,1404,994,1 1227,130,1444,350,1 457,105,688,339,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/377.jpg 453,107,691,339,1 1223,125,1449,347,1 1187,760,1413,990,1 483,747,723,1000,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/215.jpg 457,106,692,341,1 1224,124,1437,357,1 1186,766,1422,999,1 483,759,724,996,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/116.jpg 451,109,687,335,1 483,752,722,997,1 1188,760,1412,992,1 1223,124,1447,350,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/71.jpg 788,66,1016,314,1 1266,432,1557,742,1 829,830,988,1006,1 333,472,554,682,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/14.jpg 41,325,591,829,1 708,1,1144,201,1 1328,336,1742,775,1 714,977,1099,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/157.jpg 462,110,691,347,1 1224,129,1451,351,1 1184,750,1411,995,1 478,752,726,1004,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/159.jpg 456,106,686,342,1 1229,129,1446,349,1 1189,759,1413,1000,1 487,752,721,1001,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/185.jpg 833,827,979,996,1 346,476,553,672,1 788,71,1022,315,1 1254,439,1561,731,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/79.jpg 342,475,552,684,1 784,54,1014,322,1 1248,427,1564,737,1 832,829,987,1011,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/83.jpg 1223,119,1442,359,1 1192,757,1412,994,1 483,750,717,995,1 454,101,691,349,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/29.jpg 1316,327,1748,781,1 710,1,1146,201,1 714,981,1107,1079,1 43,324,604,832,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/216.jpg 461,106,688,340,1 1219,122,1447,356,1 486,750,719,1002,1 1188,766,1416,990,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/280.jpg 711,899,1020,1080,1 149,487,334,654,1 1396,479,1589,677,1 760,1,1001,144,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/17.jpg 44,327,593,835,1 1332,336,1743,770,1 715,1,1146,199,1 714,979,1098,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/372.jpg 297,110,412,152,0 237,355,354,394,0 348,580,447,640,0 269,564,344,602,0 849,817,892,916,0 153,491,341,652,1 711,902,1014,1080,1 1397,477,1586,665,1 764,1,1002,150,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/358.jpg 1231,130,1443,346,1 1196,765,1412,991,1 484,754,716,999,1 459,107,689,342,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/265.jpg 484,751,722,996,1 1186,760,1413,994,1 1226,127,1446,350,1 453,107,693,345,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/85.jpg 452,106,691,340,1 478,747,719,1007,1 1184,765,1414,996,1 1224,124,1448,354,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/39.jpg 1356,89,1588,319,1 1321,786,1556,1017,1 379,791,623,1014,1 394,70,633,296,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/37.jpg 1353,81,1596,314,1 1322,790,1562,1027,1 379,785,626,1012,1 403,80,639,304,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/388.jpg 834,839,982,1006,1 343,466,554,675,1 793,67,1022,311,1 1263,441,1554,735,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/267.jpg 457,109,687,342,1 1227,126,1443,350,1 1191,764,1413,992,1 483,754,718,997,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/311.jpg 1332,332,1742,776,1 710,1,1144,200,1 47,324,597,837,1 716,979,1107,1080,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/322.jpg 712,1,1146,212,1 49,334,594,829,1 727,981,1094,1080,1 1337,336,1743,772,1
+/home/jarvis_user/Documents/EFSB_Tracking_Image_Repository/OID/Dataset/train/eggplant/357.jpg 457,106,687,339,1 1229,126,1437,347,1 488,752,711,999,1 1196,764,1411,997,1
