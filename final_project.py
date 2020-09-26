@@ -378,7 +378,7 @@ if __name__=="__main__":
 
         # show us frame with detection
         # cv2.imshow("input", r_image)
-        cv2.imshow("black2", black2)
+        # cv2.imshow("black2", black2)
         out.write(r_image)
 
         # cv2.imshow("mog", fgmask)
