@@ -210,6 +210,19 @@ def detectRegion(frame_width, frame_height, object_centroid):
             5 if temp_coord == [1,2] else 
             8 ) 
 
+
+import math  
+
+def calculateDistance(a,b):  
+    # computes distance between 2 points 
+     
+     dist = math.sqrt((a[1] - b[1])**2 + (a[0] - b[0])**2)  
+     return dist  
+
+def swapxy(a):
+
+    return (a[1],a[0])
+
 def coordinate_in_box(coordinate, box):
 
     cx = coordinate[0]
@@ -261,6 +274,9 @@ if __name__=="__main__":
     out = cv2.VideoWriter('output.avi',cv2.VideoWriter_fourcc(*"XVID"), 15, (w,h), True)
 
     black = np.zeros(frame.shape, dtype=np.uint8)
+    black2 = np.zeros(frame.shape, dtype=np.uint8)
+    prev_efsb_coords = []
+    efsb_coords = []
 
     while True:
 
@@ -289,6 +305,7 @@ if __name__=="__main__":
         # get center of each object that is an efsb
         sample_string = ''
         # efsb_count = 0
+        prev_efsb_coords = efsb_coords
         efsb_coords = []
         eggplant_boxes = []
         for index, obj in enumerate(ObjectsList):
@@ -309,7 +326,27 @@ if __name__=="__main__":
 
             elif 'eggplant' in concat:
                 cv2.rectangle(black, (obj[1], obj[0]), (obj[3], obj[2]), [0,255,0], 1)
+                cv2.rectangle(black2, (obj[1], obj[0]), (obj[3], obj[2]), [0,255,0], 1)
                 eggplant_boxes.append((obj[0:4]))
+
+        # print(efsb_coords)
+        # print(prev_efsb_coords)
+
+        if prev_efsb_coords != [] and efsb_coords != []:
+            for a in prev_efsb_coords:
+                
+                smallest_distance = 9999
+                smallest_index = 0
+
+                for bindex, b in enumerate(efsb_coords):
+                    # print(a, b, calculateDistance(a,b))
+                    k = calculateDistance(a,b)
+                    if smallest_distance > k:
+                        smallest_distance = k
+                        smallest_index = bindex
+
+                if smallest_distance < 20:
+                    cv2.line(black2, swapxy(efsb_coords[smallest_index]), swapxy(a), (0,255,0), 1)
 
         same = True
         for index, element in enumerate(new_region_states):
@@ -341,7 +378,7 @@ if __name__=="__main__":
 
         # show us frame with detection
         # cv2.imshow("input", r_image)
-        # cv2.imshow("black", black)
+        cv2.imshow("black2", black2)
         out.write(r_image)
 
         # cv2.imshow("mog", fgmask)
@@ -364,6 +401,7 @@ if __name__=="__main__":
     f.write(string_to_write)
     
     cv2.imwrite("EFSB_trajectory.jpg",black)        
+    cv2.imwrite("EFSB_line_trajectory.jpg",black2)        
     out.release()
     cap.release()
     cv2.destroyAllWindows()
