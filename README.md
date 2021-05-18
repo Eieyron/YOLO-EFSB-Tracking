@@ -1,9 +1,10 @@
 "# YOLO-EFSB-Tracking" 
 
-Install the dependencies:
- - tensorflow 1.13.1
- - opencv 4.1.2
- - numpy 1.17.1
+Download a working .whl of Tensorflow for your machine, or build from scratch.
+Replace the absolute path of your Tensorflow .whl file in the requirements.txt.
+
+Install the dependencies in requirements.txt using 
+$pip install -r requirements.txt
 
 1) To be able to run the program, clone this repository to your computer system.
 
